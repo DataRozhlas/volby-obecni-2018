@@ -1,11 +1,9 @@
-/*
-CSS soubory ve složce /styles/ se do výsledného článku zakompilují automaticky
-*/
-
-/* override nesmyslných stylů v redakčním systému */
-
 li {
     background: none !important;
+}
+
+ul, ol {
+    list-style: initial !important;
 }
 
 hr {
