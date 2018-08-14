@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ A NEZÁVISLÍ KANDIDÁTI","6/9","37,3","33%","0%","2",1,371
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","9/9","44,2","44%","11%","2",0,47
-"SDRUŽENÍ PRO VĚTRNÝ JENÍKOV","9/9","35,3","56%","33%","5",0,901
-"""JENÍKOV""","9/9","42,6","11%","11%","0",0,902
-"JENÍKOV U NÁS","9/9","43,6","22%","22%","0",2,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ A NEZÁVISLÍ KANDIDÁTI","6/9","0",1,"5","37,3","33%","0%",371
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","9/9","2",0,"5","44,2","44%","11%",47
+"SDRUŽENÍ PRO VĚTRNÝ JENÍKOV","9/9","0",2,"7","35,3","56%","33%",901
+"""JENÍKOV""","9/9","0",0,"0","42,6","11%","11%",902
+"JENÍKOV U NÁS","9/9","5",2,"5","43,6","22%","22%",903

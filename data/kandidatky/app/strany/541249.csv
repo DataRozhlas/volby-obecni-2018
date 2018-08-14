@@ -1,9 +1,9 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","51","73%","7%","0",2,1
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","59,5","33%","7%","1",1,47
-"PRO VÁPENNOU SPOLEČNĚ!","15/15","42","27%","7%","0",7,470
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","43,5","27%","7%","1",0,7
-"TOP 09","15/15","46,7","33%","40%","5",0,721
-"""NEZÁVISLÍ PRO OBEC A VOLNOČASOVÉ AKTIVITY""","15/15","45","13%","0%","2",0,901
-"NOVÁ VOLBA PRO VÁPENNOU 2014","15/15","33,3","27%","20%","3",0,902
-"SNK - VÁPENNÁ 2014","15/15","45,6","40%","33%","0",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","0",2,"6","51","73%","7%",1
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","1",1,"9","59,5","33%","7%",47
+"PRO VÁPENNOU SPOLEČNĚ!","15/15","0",10,"5","42","27%","7%",470
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","1",0,"9","43,5","27%","7%",7
+"TOP 09","15/15","5",0,"2","46,7","33%","40%",721
+"""NEZÁVISLÍ PRO OBEC A VOLNOČASOVÉ AKTIVITY""","15/15","0",10,"5","45","13%","0%",901
+"NOVÁ VOLBA PRO VÁPENNOU 2014","15/15","0",6,"9","33,3","27%","20%",902
+"SNK - VÁPENNÁ 2014","15/15","0",9,"6","45,6","40%","33%",903

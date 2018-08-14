@@ -1,4 +1,4 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""PRO OBČANY S OBČANY""","15/15","49,2","33%","7%","7",0,901
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ OLEŠNICE, BUKOVÁ, LHOTKA","15/15","37,9","40%","20%","7",0,902
-"SBOR DOBROVOLNÝCH HASIČŮ","10/15","38,7","20%","0%","1",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""PRO OBČANY S OBČANY""","15/15","0",14,"1","49,2","33%","7%",901
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ OLEŠNICE, BUKOVÁ, LHOTKA","15/15","7",4,"6","37,9","40%","20%",902
+"SBOR DOBROVOLNÝCH HASIČŮ","10/15","0",2,"8","38,7","20%","0%",903

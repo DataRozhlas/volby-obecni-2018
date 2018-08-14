@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","21/21","55,4","52%","0%","1",1,1
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","21/21","63,1","38%","0%","2",0,47
-"SDRUŽENÍ PRO ROHATEC","21/21","39,8","33%","19%","2",2,470
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","21/21","56,9","33%","24%","3",0,7
-"ANO 2011","21/21","58,6","43%","19%","0",12,768
-"NEZÁVISLÍ","21/21","45,2","38%","33%","5",1,88
-"HASIČI LIDEM","21/21","44,2","33%","24%","3",0,901
-"SRPŠ (SDRUŽENÍ RODIČŮ A PŘÁTEL ŠKOLY)","21/21","39,6","76%","43%","3",2,902
-"""ROZVOJ OBCE ROHATEC""","21/21","46,2","43%","52%","0",2,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","21/21","1",1,"4","55,4","52%","0%",1
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","21/21","2",0,"5","63,1","38%","0%",47
+"SDRUŽENÍ PRO ROHATEC","21/21","0",7,"14","39,8","33%","19%",470
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","21/21","3",0,"2","56,9","33%","24%",7
+"ANO 2011","21/21","0",12,"9","58,6","43%","19%",768
+"NEZÁVISLÍ","21/21","5",1,"8","45,2","38%","33%",88
+"HASIČI LIDEM","21/21","3",0,"8","44,2","33%","24%",901
+"SRPŠ (SDRUŽENÍ RODIČŮ A PŘÁTEL ŠKOLY)","21/21","0",3,"18","39,6","76%","43%",902
+"""ROZVOJ OBCE ROHATEC""","21/21","0",13,"8","46,2","43%","52%",903

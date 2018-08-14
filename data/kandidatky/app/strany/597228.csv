@@ -1,8 +1,8 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","43,1","33%","7%","1",0,1
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","55,1","20%","7%","2",1,47
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ PRO BŘIDLIČNOU, VAJGLOV A ALBRECHTICE U RÝMAŘOVA","15/15","49,7","33%","33%","0",1,470
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","46,9","47%","47%","2",2,7
-"SDRUŽENÍ BŘIDLIČNÁ","15/15","41,1","40%","0%","2",1,901
-"""PRO NAŠE MĚSTO""","15/15","50,8","27%","27%","6",0,902
-"SPOLEK PRO ROZVOJ SPORTU, KULTURY A MĚSTA BŘIDLIČNÉ","15/15","45,5","7%","20%","2",1,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","1",0,"7","43,1","33%","7%",1
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","2",1,"4","55,1","20%","7%",47
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ PRO BŘIDLIČNOU, VAJGLOV A ALBRECHTICE U RÝMAŘOVA","15/15","0",6,"9","49,7","33%","33%",470
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","2",2,"7","46,9","47%","47%",7
+"SDRUŽENÍ BŘIDLIČNÁ","15/15","0",2,"13","41,1","40%","0%",901
+"""PRO NAŠE MĚSTO""","15/15","0",4,"11","50,8","27%","27%",902
+"SPOLEK PRO ROZVOJ SPORTU, KULTURY A MĚSTA BŘIDLIČNÉ","15/15","0",8,"7","45,5","7%","20%",903

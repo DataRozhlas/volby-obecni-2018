@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"ING. BOHUMIL LINHART","1/7","41","0%","100%","0",0,801
-"ING. PAVEL PRIHARA","1/7","34","0%","100%","0",0,802
-"JOSEF MACHNÍK","1/7","65","0%","0%","0",0,803
-"ZDENĚK BINĚDA","1/7","35","0%","0%","0",0,804
-"PAVEL KAŠPÍREK","1/7","36","0%","0%","0",0,805
-"JIŘINA METLIČKOVÁ","1/7","63","100%","0%","0",0,806
-"MARTIN HOLÝ","1/7","35","0%","0%","0",0,807
-"KAREL KŘIVANEC","1/7","53","0%","0%","0",0,808
-"VLASTIMIL OPATRNÝ","1/7","41","0%","0%","0",0,809
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"ING. BOHUMIL LINHART","1/7","0",1,"0","41","0%","100%",801
+"ING. PAVEL PRIHARA","1/7","0",1,"0","34","0%","100%",802
+"JOSEF MACHNÍK","1/7","0",1,"0","65","0%","0%",803
+"ZDENĚK BINĚDA","1/7","0",0,"0","35","0%","0%",804
+"PAVEL KAŠPÍREK","1/7","0",0,"0","36","0%","0%",805
+"JIŘINA METLIČKOVÁ","1/7","0",1,"0","63","100%","0%",806
+"MARTIN HOLÝ","1/7","0",0,"0","35","0%","0%",807
+"KAREL KŘIVANEC","1/7","0",0,"0","53","0%","0%",808
+"VLASTIMIL OPATRNÝ","1/7","0",1,"0","41","0%","0%",809

@@ -1,11 +1,11 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"ROMAN KOLÁŘ, NEZÁVISLÝ KANDIDÁT","1/7","35","0%","0%","0",0,801
-"TOMÁŠ PLÍHAL, NEZÁVISLÝ KANDIDÁT","1/7","31","0%","0%","0",0,802
-"LUBOMÍR ŠTARHA, NEZÁVISLÝ KANDIDÁT","1/7","50","0%","0%","0",0,803
-"VÍT KOLÁŘ, NEZÁVISLÝ KANDIDÁT","1/7","49","0%","0%","0",0,804
-"MILAN SLEZÁK, NEZÁVISLÝ KANDIDÁT","1/7","49","0%","0%","0",0,805
-"VÍT HOŘÍNEK, NEZÁVISLÝ KANDIDÁT","1/7","26","0%","100%","0",0,806
-"ZDENĚK HOŘÍNEK, NEZÁVISLÝ KANDIDÁT","1/7","28","0%","0%","0",0,807
-"ALENA VOJTOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","63","100%","0%","0",0,808
-"ZDENĚK BUBENÍK, NEZÁVISLÝ KANDIDÁT","1/7","45","0%","0%","0",0,809
-"MARTIN PLÍHAL, NEZÁVISLÝ KANDIDÁT","1/7","34","0%","0%","0",0,810
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"ROMAN KOLÁŘ, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","35","0%","0%",801
+"TOMÁŠ PLÍHAL, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","31","0%","0%",802
+"LUBOMÍR ŠTARHA, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","50","0%","0%",803
+"VÍT KOLÁŘ, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","49","0%","0%",804
+"MILAN SLEZÁK, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","49","0%","0%",805
+"VÍT HOŘÍNEK, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","26","0%","100%",806
+"ZDENĚK HOŘÍNEK, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","28","0%","0%",807
+"ALENA VOJTOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","63","100%","0%",808
+"ZDENĚK BUBENÍK, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","45","0%","0%",809
+"MARTIN PLÍHAL, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","34","0%","0%",810

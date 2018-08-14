@@ -1,8 +1,8 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"VÁCLAV TRČKA","1/5","41","0%","0%","1",0,801
-"STANISLAV NĚMECKÝ","1/5","40","0%","0%","1",0,802
-"JAROSLAV KUNC","1/5","27","0%","0%","1",0,803
-"MILOŠ BRABEC","1/5","46","0%","0%","1",0,804
-"ING. JIŘÍ HALVA","1/5","26","0%","100%","1",0,805
-"ING. TOMÁŠ KREUTZER","1/5","37","0%","100%","0",0,806
-"MILAN ŠTŮLA","1/5","36","0%","0%","0",0,807
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"VÁCLAV TRČKA","1/5","0",0,"0","41","0%","0%",801
+"STANISLAV NĚMECKÝ","1/5","0",1,"0","40","0%","0%",802
+"JAROSLAV KUNC","1/5","0",1,"0","27","0%","0%",803
+"MILOŠ BRABEC","1/5","0",1,"0","46","0%","0%",804
+"ING. JIŘÍ HALVA","1/5","0",0,"0","26","0%","100%",805
+"ING. TOMÁŠ KREUTZER","1/5","0",0,"0","37","0%","100%",806
+"MILAN ŠTŮLA","1/5","0",1,"0","36","0%","0%",807

@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","21/21","44,7","19%","57%","2",0,1
-"VOLBA PRO MĚSTO","21/21","47,1","38%","43%","0",2,113
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","21/21","64,4","19%","5%","1",0,47
-"TOP 09 S PODPOROU NEZÁVISLÝCH KANDIDÁTŮ","21/21","46,3","48%","38%","0",12,480
-"LANŠKROUNSKÉ FÓRUM","21/21","41,7","38%","52%","0",3,510
-"OBČANSKÁ DEMOKRATICKÁ STRANA","21/21","45,1","29%","67%","6",1,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","21/21","54","38%","33%","5",2,7
-"STRANA PRÁV OBČANŮ","21/21","54","43%","19%","0",1,724
-"ANO 2011","21/21","53,9","24%","43%","0",9,768
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","21/21","2",0,"9","44,7","19%","57%",1
+"VOLBA PRO MĚSTO","21/21","0",2,"19","47,1","38%","43%",113
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","21/21","1",0,"9","64,4","19%","5%",47
+"TOP 09 S PODPOROU NEZÁVISLÝCH KANDIDÁTŮ","21/21","0",14,"7","46,3","48%","38%",480
+"LANŠKROUNSKÉ FÓRUM","21/21","0",7,"14","41,7","38%","52%",510
+"OBČANSKÁ DEMOKRATICKÁ STRANA","21/21","0",16,"5","45,1","29%","67%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","21/21","5",2,"11","54","38%","33%",7
+"STRANA PRÁV OBČANŮ","21/21","0",8,"13","54","43%","19%",724
+"ANO 2011","21/21","0",9,"12","53,9","24%","43%",768

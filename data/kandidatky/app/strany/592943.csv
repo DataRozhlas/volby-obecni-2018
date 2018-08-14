@@ -1,9 +1,9 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","43,5","33%","47%","2",0,1
-"""SDRUŽENÍ NESTRANÍKŮ""","15/15","51","40%","33%","0",1,158
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","51,9","20%","13%","2",0,47
-"""VOLBA PRO MĚSTO""","15/15","50,7","47%","40%","0",13,470
-"OBČANSKÁ DEMOKRATICKÁ STRANA","10/15","45","10%","30%","2",0,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","44,7","40%","60%","3",0,7
-"ANO 2011","15/15","43,6","20%","47%","0",5,768
-"PRO SPORT A ZDRAVÍ","15/15","47,6","27%","33%","0",2,785
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","2",0,"3","43,5","33%","47%",1
+"""SDRUŽENÍ NESTRANÍKŮ""","15/15","0",1,"12","51","40%","33%",158
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","2",0,"6","51,9","20%","13%",47
+"""VOLBA PRO MĚSTO""","15/15","0",13,"2","50,7","47%","40%",470
+"OBČANSKÁ DEMOKRATICKÁ STRANA","10/15","2",0,"4","45","10%","30%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","3",0,"6","44,7","40%","60%",7
+"ANO 2011","15/15","0",5,"10","43,6","20%","47%",768
+"PRO SPORT A ZDRAVÍ","15/15","0",2,"13","47,6","27%","33%",785

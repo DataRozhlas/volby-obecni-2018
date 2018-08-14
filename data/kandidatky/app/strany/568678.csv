@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","55","20%","7%","2",2,47
-"""SOKOL""","15/15","35,3","0%","0%","0",0,901
-"MUŽI","15/15","44,9","0%","20%","4",0,902
-"ŽENY","15/15","51,3","100%","20%","7",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","2",2,"3","55","20%","7%",47
+"""SOKOL""","15/15","0",5,"10","35,3","0%","0%",901
+"MUŽI","15/15","0",9,"6","44,9","0%","20%",902
+"ŽENY","15/15","0",14,"1","51,3","100%","20%",903

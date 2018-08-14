@@ -1,9 +1,9 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"PETR KACETL","1/5","32","0%","0%","0",0,801
-"MGR. VLADIMÍR DUMA","1/5","60","0%","100%","1",0,802
-"ZDENĚK ČÍŽEK","1/5","63","0%","0%","1",0,803
-"JIŘÍ TOPINKA","1/5","33","0%","0%","0",0,804
-"JAROMÍR FOUSEK","1/5","44","0%","0%","1",0,805
-"LADISLAV VIKLICKÝ","1/5","65","0%","0%","1",0,806
-"ANTONÍN TOMÁŠEK","1/5","55","0%","0%","1",0,807
-"PETR KAIDL","1/5","45","0%","0%","0",0,808
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"PETR KACETL","1/5","0",0,"0","32","0%","0%",801
+"MGR. VLADIMÍR DUMA","1/5","0",1,"0","60","0%","100%",802
+"ZDENĚK ČÍŽEK","1/5","0",0,"0","63","0%","0%",803
+"JIŘÍ TOPINKA","1/5","1",0,"0","33","0%","0%",804
+"JAROMÍR FOUSEK","1/5","1",0,"0","44","0%","0%",805
+"LADISLAV VIKLICKÝ","1/5","1",0,"0","65","0%","0%",806
+"ANTONÍN TOMÁŠEK","1/5","1",0,"0","55","0%","0%",807
+"PETR KAIDL","1/5","1",0,"0","45","0%","0%",808

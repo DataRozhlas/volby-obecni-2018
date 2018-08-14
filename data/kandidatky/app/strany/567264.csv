@@ -1,9 +1,9 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","21/21","58","38%","10%","6",1,47
-"NESLIBUJEME! NELŽEME! PRACUJME PRO MĚSTO, KDE ŽIJEME","21/21","41,1","29%","19%","0",4,470
-"SEVEROČEŠI LOM","21/21","55,1","52%","38%","0",15,518
-"OBČANSKÁ DEMOKRATICKÁ STRANA","21/21","41,9","43%","19%","4",2,53
-"SDRUŽENÍ LOMÁCI","21/21","40,1","33%","14%","0",1,536
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","21/21","51,1","24%","14%","3",3,7
-"STRANA SOUKROMNÍKŮ ČESKÉ REPUBLIKY","3/21","37,7","0%","0%","0",0,716
-"""OMMO - HLAS PRO OBČANA""","21/21","50,5","48%","10%","1",4,734
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","21/21","6",1,"11","58","38%","10%",47
+"NESLIBUJEME! NELŽEME! PRACUJME PRO MĚSTO, KDE ŽIJEME","21/21","0",4,"17","41,1","29%","19%",470
+"SEVEROČEŠI LOM","21/21","0",15,"6","55,1","52%","38%",518
+"OBČANSKÁ DEMOKRATICKÁ STRANA","21/21","4",2,"8","41,9","43%","19%",53
+"SDRUŽENÍ LOMÁCI","21/21","0",1,"20","40,1","33%","14%",536
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","21/21","3",3,"8","51,1","24%","14%",7
+"STRANA SOUKROMNÍKŮ ČESKÉ REPUBLIKY","3/21","0",0,"0","37,7","0%","0%",716
+"""OMMO - HLAS PRO OBČANA""","21/21","0",8,"13","50,5","48%","10%",734

@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","9/9","57,4","78%","0%","2",1,47
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","9/9","44,8","33%","22%","1",1,7
-"""ZA ROZVOJ""","9/9","45,7","22%","11%","2",0,901
-"""ZA NAŠI OBEC""","9/9","43,2","67%","22%","4",0,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","9/9","2",1,"6","57,4","78%","0%",47
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","9/9","1",1,"4","44,8","33%","22%",7
+"""ZA ROZVOJ""","9/9","0",7,"2","45,7","22%","11%",901
+"""ZA NAŠI OBEC""","9/9","0",2,"7","43,2","67%","22%",902

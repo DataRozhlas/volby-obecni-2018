@@ -1,8 +1,8 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","60,8","60%","13%","1",0,1
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","48,5","33%","7%","1",0,47
-"""NEZÁVISLÍ KANDIDÁTI SUDKOVA""","15/15","45,9","40%","20%","2",12,901
-"""ZA SUDKOV KRÁSNĚJŠÍ""","15/15","48,9","27%","20%","2",1,902
-"SPOLEČNĚ PRO SUDKOV","15/15","41","67%","0%","1",0,903
-"VOLBA PRO SUDKOV","15/15","38,7","60%","20%","3",0,904
-"SUDKOVSKÁ PROSPERITA","15/15","46,4","53%","20%","0",7,905
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","1",0,"7","60,8","60%","13%",1
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","1",0,"10","48,5","33%","7%",47
+"""NEZÁVISLÍ KANDIDÁTI SUDKOVA""","15/15","0",12,"3","45,9","40%","20%",901
+"""ZA SUDKOV KRÁSNĚJŠÍ""","15/15","3",1,"5","48,9","27%","20%",902
+"SPOLEČNĚ PRO SUDKOV","15/15","1",4,"6","41","67%","0%",903
+"VOLBA PRO SUDKOV","15/15","2",6,"6","38,7","60%","20%",904
+"SUDKOVSKÁ PROSPERITA","15/15","2",9,"3","46,4","53%","20%",905

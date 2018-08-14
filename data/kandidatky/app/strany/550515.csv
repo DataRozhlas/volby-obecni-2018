@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","47,4","27%","13%","2",1,1
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","54,3","33%","7%","2",1,47
-"ANO 2011","15/15","40,5","60%","7%","0",4,768
-"""NAŠE STACHY""","15/15","41,3","20%","13%","3",0,901
-"""PRO STACHOVSKO""","15/15","49,1","20%","47%","2",2,902
-"STAŠSKÁ ROZVOJOVÁ STRANA","15/15","46,3","13%","27%","1",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","2",1,"6","47,4","27%","13%",1
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","2",1,"6","54,3","33%","7%",47
+"ANO 2011","15/15","0",4,"11","40,5","60%","7%",768
+"""NAŠE STACHY""","15/15","0",10,"5","41,3","20%","13%",901
+"""PRO STACHOVSKO""","15/15","0",10,"5","49,1","20%","47%",902
+"STAŠSKÁ ROZVOJOVÁ STRANA","15/15","2",5,"1","46,3","13%","27%",903

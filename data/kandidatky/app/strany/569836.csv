@@ -1,9 +1,9 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"MARTIN HANUŠ","1/7","40","0%","0%","1",0,801
-"MGR. LADISLAV VLACHÝ","1/7","58","0%","100%","1",0,802
-"MGR. RADKA ROHLÍKOVÁ","1/7","47","100%","100%","1",0,803
-"ING. ŠÁRKA VOJTĚCHOVÁ","1/7","31","100%","100%","1",0,804
-"MARTIN KALMAN","1/7","46","0%","0%","1",0,805
-"JIŘÍ ŠANDA","1/7","28","0%","0%","1",0,806
-"ROMAN MIŠKE","1/7","38","0%","0%","0",0,807
-"IVANA ČERNÁ","1/7","48","100%","0%","1",0,808
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"MARTIN HANUŠ","1/7","0",1,"0","40","0%","0%",801
+"MGR. LADISLAV VLACHÝ","1/7","0",1,"0","58","0%","100%",802
+"MGR. RADKA ROHLÍKOVÁ","1/7","0",1,"0","47","100%","100%",803
+"ING. ŠÁRKA VOJTĚCHOVÁ","1/7","0",0,"0","31","100%","100%",804
+"MARTIN KALMAN","1/7","0",0,"0","46","0%","0%",805
+"JIŘÍ ŠANDA","1/7","0",0,"0","28","0%","0%",806
+"ROMAN MIŠKE","1/7","0",1,"0","38","0%","0%",807
+"IVANA ČERNÁ","1/7","0",0,"0","48","100%","0%",808

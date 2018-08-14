@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"ING. VLADIMÍR EXNER","1/7","31","0%","100%","1",0,801
-"ING. IVANA MAREŠOVÁ","1/7","61","100%","100%","1",0,802
-"PATRIK KUČERA","1/7","20","0%","0%","1",0,803
-"KATEŘINA LAUŠMANOVÁ","1/7","31","100%","0%","0",0,804
-"VLADIMÍR HRUŠKA","1/7","25","0%","0%","0",0,805
-"PETR KUDRNA","1/7","39","0%","0%","1",0,806
-"VERONIKA ZEMANOVÁ","1/7","30","100%","0%","1",0,807
-"JAN ŠEJVL","1/7","39","0%","0%","1",0,808
-"PŘEMYSL HRUBÝ","1/7","55","0%","0%","1",0,809
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"ING. VLADIMÍR EXNER","1/7","0",1,"0","31","0%","100%",801
+"ING. IVANA MAREŠOVÁ","1/7","0",0,"0","61","100%","100%",802
+"PATRIK KUČERA","1/7","0",0,"0","20","0%","0%",803
+"KATEŘINA LAUŠMANOVÁ","1/7","0",0,"0","31","100%","0%",804
+"VLADIMÍR HRUŠKA","1/7","0",0,"0","25","0%","0%",805
+"PETR KUDRNA","1/7","1",0,"0","39","0%","0%",806
+"VERONIKA ZEMANOVÁ","1/7","0",0,"0","30","100%","0%",807
+"JAN ŠEJVL","1/7","1",0,"0","39","0%","0%",808
+"PŘEMYSL HRUBÝ","1/7","0",0,"0","55","0%","0%",809

@@ -1,9 +1,9 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"ZDENĚK KAKÁČ, NEZÁVISLÝ KANDIDÁT","1/15","54","0%","100%","0",0,801
-"PAVEL ZMEKO, NEZÁVISLÝ KANDIDÁT","1/15","38","0%","0%","0",0,802
-"RADEK ŠTOLPA, NEZÁVISLÝ KANDIDÁT","1/15","37","0%","0%","0",0,803
-"PAVEL KUNC, NEZÁVISLÝ KANDIDÁT","1/15","50","0%","0%","0",0,804
-"DANA KOUŘILOVÁ, NEZÁVISLÝ KANDIDÁT","1/15","48","100%","0%","0",0,805
-"PETR KOPAL, NEZÁVISLÝ KANDIDÁT","1/15","65","0%","0%","0",0,806
-"ALEŠ BLÉZL, NEZÁVISLÝ KANDIDÁT","1/15","33","0%","0%","0",0,807
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ","15/15","35","27%","20%","8",0,901
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"ZDENĚK KAKÁČ, NEZÁVISLÝ KANDIDÁT","1/15","0",0,"0","54","0%","100%",801
+"PAVEL ZMEKO, NEZÁVISLÝ KANDIDÁT","1/15","0",1,"0","38","0%","0%",802
+"RADEK ŠTOLPA, NEZÁVISLÝ KANDIDÁT","1/15","0",1,"0","37","0%","0%",803
+"PAVEL KUNC, NEZÁVISLÝ KANDIDÁT","1/15","0",0,"0","50","0%","0%",804
+"DANA KOUŘILOVÁ, NEZÁVISLÝ KANDIDÁT","1/15","0",1,"0","48","100%","0%",805
+"PETR KOPAL, NEZÁVISLÝ KANDIDÁT","1/15","0",0,"0","65","0%","0%",806
+"ALEŠ BLÉZL, NEZÁVISLÝ KANDIDÁT","1/15","0",1,"0","33","0%","0%",807
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ","15/15","8",0,"8","35","27%","20%",901

@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","11/11","48,4","45%","36%","3",0,1
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","11/11","52,2","18%","18%","1",0,7
-"TOP 09","11/11","40,7","27%","45%","1",2,721
-"""T.J. SOKOL TELNICE""","11/11","40,1","55%","27%","3",0,901
-"SPORTOVCI OBCE TELNICE","11/11","41,1","18%","27%","1",0,902
-"T-PARLAMENT","11/11","24,4","45%","9%","1",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","11/11","3",0,"3","48,4","45%","36%",1
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","11/11","1",0,"3","52,2","18%","18%",7
+"TOP 09","11/11","1",2,"5","40,7","27%","45%",721
+"""T.J. SOKOL TELNICE""","11/11","1",0,"3","40,1","55%","27%",901
+"SPORTOVCI OBCE TELNICE","11/11","0",8,"3","41,1","18%","27%",902
+"T-PARLAMENT","11/11","0",0,"0","24,4","45%","9%",903

@@ -1,4 +1,4 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","1/9","66","0%","0%","0",0,47
-"""PRAVDA A LÁSKA MUSÍ ZVÍTĚZIT NAD LŽÍ A NENÁVISTÍ !""","9/9","39,8","22%","0%","9",0,901
-"PRO NEZABYLICE","9/9","42,6","33%","0%","0",0,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","1/9","0",1,"0","66","0%","0%",47
+"""PRAVDA A LÁSKA MUSÍ ZVÍTĚZIT NAD LŽÍ A NENÁVISTÍ !""","9/9","0",0,"0","39,8","22%","0%",901
+"PRO NEZABYLICE","9/9","0",4,"5","42,6","33%","0%",902

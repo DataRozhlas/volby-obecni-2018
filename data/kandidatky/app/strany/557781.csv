@@ -1,4 +1,4 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","61,5","53%","20%","3",0,47
-"PRO DOBRO OBCE A OBČANŮ","15/15","48,6","53%","27%","7",7,470
-"""PRO ROZVOJ OBCE CHLUMČANY""","15/15","46,2","40%","0%","5",0,901
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","3",0,"7","61,5","53%","20%",47
+"PRO DOBRO OBCE A OBČANŮ","15/15","0",10,"5","48,6","53%","27%",470
+"""PRO ROZVOJ OBCE CHLUMČANY""","15/15","0",6,"9","46,2","40%","0%",901

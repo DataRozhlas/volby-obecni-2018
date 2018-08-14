@@ -1,4 +1,4 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""PRO ROZVOJ OBCE""","11/11","35,8","36%","27%","4",0,901
-"NEZÁVISLÍ","6/11","35,7","33%","17%","4",0,902
-"""PRO BUDOUCNOST OBCE""","11/11","44,4","36%","27%","2",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""PRO ROZVOJ OBCE""","11/11","0",4,"7","35,8","36%","27%",901
+"NEZÁVISLÍ","6/11","0",0,"0","35,7","33%","17%",902
+"""PRO BUDOUCNOST OBCE""","11/11","0",6,"5","44,4","36%","27%",903

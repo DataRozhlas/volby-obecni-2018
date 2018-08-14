@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""ZA OLDŘIŠOV JEŠTĚ KRÁSNĚJŠÍ""","9/9","45,2","22%","22%","3",0,901
-"OLDŘIŠOVSKÁ BUDOUCNOST","9/9","39,8","33%","44%","1",0,902
-"OBČANÉ OLDŘIŠOVA","9/9","40,7","22%","22%","4",0,903
-"PRO LIDI A OBEC","9/9","46,3","33%","44%","1",0,904
-"VOLBA PRO OLDŘIŠOV","9/9","35,6","22%","44%","0",0,905
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""ZA OLDŘIŠOV JEŠTĚ KRÁSNĚJŠÍ""","9/9","4",1,"5","45,2","22%","22%",901
+"OLDŘIŠOVSKÁ BUDOUCNOST","9/9","0",5,"4","39,8","33%","44%",902
+"OBČANÉ OLDŘIŠOVA","9/9","1",2,"3","40,7","22%","22%",903
+"PRO LIDI A OBEC","9/9","0",4,"5","46,3","33%","44%",904
+"VOLBA PRO OLDŘIŠOV","9/9","0",2,"7","35,6","22%","44%",905

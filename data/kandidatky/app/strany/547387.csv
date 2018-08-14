@@ -1,15 +1,15 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"OTEVŘENÁ RADNICE","15/31","39,7","67%","47%","0",0,1024
-"DOMOV","13/31","53,5","23%","31%","0",0,155
-"DEMOKRATÉ JANA KASLA","31/31","47,2","35%","16%","0",5,427
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","29/31","62,9","21%","14%","0",0,47
-"PATNÁCTKA NÁŠ DOMOV - STRANA ZELENÝCH, KDU-ČSL A NEZÁVISLÍ KANDIDÁTI","31/31","44,5","52%","58%","0",0,479
-"OBČANSKÁ DEMOKRATICKÁ STRANA","31/31","50,1","23%","48%","2",0,53
-"OBČANSKÁ DEMOKRATICKÁ STRANA","31/31","50,1","23%","48%","3",0,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","31/31","46","35%","55%","2",0,7
-"TOP 09","31/31","40,7","45%","45%","2",0,721
-"ANO 2011","31/31","43,8","48%","29%","0",2,768
-"PRO PRAHU","31/31","41,5","16%","16%","0",1,791
-"ÚSVIT PŘÍMÉ DEMOKRACIE","31/31","53,7","39%","10%","0",8,792
-"NEZÁVISLÍ","31/31","48,9","32%","45%","1",0,88
-"NEZÁVISLÍ","31/31","48,9","32%","45%","0",0,88
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"OTEVŘENÁ RADNICE","15/31","0",0,"0","39,7","67%","47%",1024
+"DOMOV","13/31","0",0,"0","53,5","23%","31%",155
+"DEMOKRATÉ JANA KASLA","31/31","0",5,"26","47,2","35%","16%",427
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","29/31","0",0,"13","62,9","21%","14%",47
+"PATNÁCTKA NÁŠ DOMOV - STRANA ZELENÝCH, KDU-ČSL A NEZÁVISLÍ KANDIDÁTI","31/31","0",2,"29","44,5","52%","58%",479
+"OBČANSKÁ DEMOKRATICKÁ STRANA","31/31","2",0,"16","50,1","23%","48%",53
+"OBČANSKÁ DEMOKRATICKÁ STRANA","31/31","3",0,"16","50,1","23%","48%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","31/31","2",0,"15","46","35%","55%",7
+"TOP 09","31/31","2",0,"19","40,7","45%","45%",721
+"ANO 2011","31/31","0",2,"29","43,8","48%","29%",768
+"PRO PRAHU","31/31","0",1,"30","41,5","16%","16%",791
+"ÚSVIT PŘÍMÉ DEMOKRACIE","31/31","0",8,"23","53,7","39%","10%",792
+"NEZÁVISLÍ","31/31","1",0,"13","48,9","32%","45%",88
+"NEZÁVISLÍ","31/31","0",0,"13","48,9","32%","45%",88

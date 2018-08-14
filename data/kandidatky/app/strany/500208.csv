@@ -1,21 +1,21 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"OBČANSKÁ KONZERVATIVNÍ STRANA","23/45","30,7","30%","17%","0",0,1006
-"NEZÁVISLÉ FÓRUM","45/45","48,7","47%","36%","0",12,1052
-"DOMOV","45/45","49,8","36%","20%","0",0,155
-"OSMIČKA SOBĚ, KDU-ČSL A OSOBNOSTI PRAHY 8","45/45","46,1","33%","64%","0",1,355
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","45/45","58","24%","33%","1",0,47
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","45/45","58","24%","33%","2",0,47
-"STRANA ZELENÝCH","45/45","39,7","47%","82%","1",0,5
-"PATRIOTI - VOLBA PRO PRAHU 8","45/45","44,7","36%","22%","0",13,524
-"OBČANSKÁ DEMOKRATICKÁ STRANA","45/45","44,5","31%","53%","4",0,53
-"OBČANSKÁ DEMOKRATICKÁ STRANA","45/45","44,5","31%","53%","5",0,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","45/45","53,1","20%","58%","3",0,7
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","45/45","53,1","20%","58%","4",0,7
-"STRANA SVOBODNÝCH OBČANŮ","45/45","38,6","20%","38%","0",0,714
-"ČESKÁ PIRÁTSKÁ STRANA","8/45","39,5","38%","25%","0",3,720
-"TOP 09","45/45","40,5","29%","62%","3",0,721
-"TOP 09","45/45","40,5","29%","62%","4",0,721
-"ANO 2011","45/45","49","49%","40%","0",4,768
-"PRO PRAHU","45/45","40,6","56%","22%","0",4,791
-"ÚSVIT PŘÍMÉ DEMOKRACIE","8/45","46,4","12%","38%","0",1,792
-"ROMSKÁ DEMOKRATICKÁ STRANA","1/45","55","100%","0%","0",0,794
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"OBČANSKÁ KONZERVATIVNÍ STRANA","23/45","0",0,"0","30,7","30%","17%",1006
+"NEZÁVISLÉ FÓRUM","45/45","0",12,"33","48,7","47%","36%",1052
+"DOMOV","45/45","0",1,"44","49,8","36%","20%",155
+"OSMIČKA SOBĚ, KDU-ČSL A OSOBNOSTI PRAHY 8","45/45","0",6,"39","46,1","33%","64%",355
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","45/45","1",0,"19","58","24%","33%",47
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","45/45","2",0,"19","58","24%","33%",47
+"STRANA ZELENÝCH","45/45","1",0,"33","39,7","47%","82%",5
+"PATRIOTI - VOLBA PRO PRAHU 8","45/45","0",13,"32","44,7","36%","22%",524
+"OBČANSKÁ DEMOKRATICKÁ STRANA","45/45","4",0,"21","44,5","31%","53%",53
+"OBČANSKÁ DEMOKRATICKÁ STRANA","45/45","5",0,"21","44,5","31%","53%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","45/45","4",0,"20","53,1","20%","58%",7
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","45/45","3",0,"20","53,1","20%","58%",7
+"STRANA SVOBODNÝCH OBČANŮ","45/45","0",0,"0","38,6","20%","38%",714
+"ČESKÁ PIRÁTSKÁ STRANA","8/45","0",3,"5","39,5","38%","25%",720
+"TOP 09","45/45","4",0,"24","40,5","29%","62%",721
+"TOP 09","45/45","3",0,"24","40,5","29%","62%",721
+"ANO 2011","45/45","0",4,"41","49","49%","40%",768
+"PRO PRAHU","45/45","0",4,"41","40,6","56%","22%",791
+"ÚSVIT PŘÍMÉ DEMOKRACIE","8/45","0",1,"7","46,4","12%","38%",792
+"ROMSKÁ DEMOKRATICKÁ STRANA","1/45","0",0,"0","55","100%","0%",794

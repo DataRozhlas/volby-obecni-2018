@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""ZA KRÁSNĚJŠÍ VRANOVSKOU VES""","8/7","50,5","75%","0%","4",1,901
-"OBČANÉ OBCI","7/7","45,1","14%","14%","2",2,902
-"KLIDNÁ OBEC","7/7","49,3","0%","14%","1",0,903
-"PRO BUDOUCNOST","7/7","40,3","14%","0%","0",2,904
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""ZA KRÁSNĚJŠÍ VRANOVSKOU VES""","8/7","0",5,"3","50,5","75%","0%",901
+"OBČANÉ OBCI","7/7","0",3,"4","45,1","14%","14%",902
+"KLIDNÁ OBEC","7/7","2",1,"3","49,3","0%","14%",903
+"PRO BUDOUCNOST","7/7","4",3,"2","40,3","14%","0%",904

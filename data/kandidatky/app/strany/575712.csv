@@ -1,11 +1,11 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"JIŘINA ŠEJNOVÁ","1/7","45","100%","0%","0",0,801
-"JIŘÍ URBAN","1/7","39","0%","0%","0",0,802
-"MILAN MIAVEC","1/7","42","0%","0%","1",0,803
-"JIŘÍ KODEDA, NEZÁVISLÝ KANDIDÁT","1/7","33","0%","0%","0",0,804
-"ING. MILOŠ HANDLÍŘ","1/7","31","0%","100%","0",0,805
-"MARTIN JANDA","1/7","41","0%","0%","1",0,806
-"PETR VAVRUŠKA","1/7","64","0%","0%","1",0,807
-"ZBYNĚK ŠEJNA","1/7","50","0%","0%","1",0,808
-"PAVEL ZDENĚK","1/7","39","0%","0%","0",0,809
-"JIŘÍ KOUTSKÝ","1/7","41","0%","0%","1",0,810
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"JIŘINA ŠEJNOVÁ","1/7","0",0,"0","45","100%","0%",801
+"JIŘÍ URBAN","1/7","0",0,"0","39","0%","0%",802
+"MILAN MIAVEC","1/7","0",0,"0","42","0%","0%",803
+"JIŘÍ KODEDA, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","33","0%","0%",804
+"ING. MILOŠ HANDLÍŘ","1/7","1",0,"0","31","0%","100%",805
+"MARTIN JANDA","1/7","0",0,"0","41","0%","0%",806
+"PETR VAVRUŠKA","1/7","0",1,"0","64","0%","0%",807
+"ZBYNĚK ŠEJNA","1/7","1",0,"0","50","0%","0%",808
+"PAVEL ZDENĚK","1/7","1",0,"0","39","0%","0%",809
+"JIŘÍ KOUTSKÝ","1/7","1",0,"0","41","0%","0%",810

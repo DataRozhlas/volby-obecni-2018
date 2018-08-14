@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""STRANA PRO OTEVŘENOU SPOLEČNOST""","15/15","47,3","47%","33%","2",3,103
-"STAROSTOVÉ A NEZÁVISLÍ","15/15","46,3","20%","40%","6",1,166
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","48,1","60%","13%","2",2,47
-"OBČANSKÁ DEMOKRATICKÁ STRANA","15/15","49","20%","20%","2",0,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","46,7","47%","7%","2",0,7
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""STRANA PRO OTEVŘENOU SPOLEČNOST""","15/15","0",11,"4","47,3","47%","33%",103
+"STAROSTOVÉ A NEZÁVISLÍ","15/15","0",10,"5","46,3","20%","40%",166
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","2",2,"4","48,1","60%","13%",47
+"OBČANSKÁ DEMOKRATICKÁ STRANA","15/15","2",0,"5","49","20%","20%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","2",0,"5","46,7","47%","7%",7

@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","11/11","39,5","36%","27%","1",0,1
-"""NESTRANÍCI""","11/11","47,9","45%","45%","0",4,181
-"SDRUŽENÍ OBČANSKÉ DEMOKRATICKÉ STRANY A NEZÁVISLÝCH KANDIDÁTŮ","11/11","45,7","18%","9%","0",2,389
-"PETR TRAJER, NEZÁVISLÝ KANDIDÁT","1/11","59","0%","0%","0",1,801
-"SNK BESEDNICE 2014","11/11","36,9","36%","27%","4",0,901
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ 2014","11/11","37,4","36%","27%","0",0,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","11/11","1",0,"4","39,5","36%","27%",1
+"""NESTRANÍCI""","11/11","0",4,"7","47,9","45%","45%",181
+"SDRUŽENÍ OBČANSKÉ DEMOKRATICKÉ STRANY A NEZÁVISLÝCH KANDIDÁTŮ","11/11","0",6,"5","45,7","18%","9%",389
+"PETR TRAJER, NEZÁVISLÝ KANDIDÁT","1/11","0",1,"0","59","0%","0%",801
+"SNK BESEDNICE 2014","11/11","0",4,"7","36,9","36%","27%",901
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ 2014","11/11","0",3,"8","37,4","36%","27%",902

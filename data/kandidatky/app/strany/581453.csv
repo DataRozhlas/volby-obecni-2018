@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","8/7","48","50%","25%","2",0,1
-"""SDRUŽENÍ NESTRANÍKŮ""","8/7","44,5","38%","25%","0",0,158
-"BUKOVINKA NEZÁVISLÍ KANDIDÁTI 2014","9/7","53,8","33%","22%","2",0,901
-"STAROUSEDLÍCI PRO BUKOVINKU","7/7","55,9","57%","0%","3",0,902
-"SNK - NEZÁVISLÍ OBCE BUKOVINKA","7/7","49,4","43%","29%","0",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","8/7","2",0,"5","48","50%","25%",1
+"""SDRUŽENÍ NESTRANÍKŮ""","8/7","0",0,"0","44,5","38%","25%",158
+"BUKOVINKA NEZÁVISLÍ KANDIDÁTI 2014","9/7","0",4,"5","53,8","33%","22%",901
+"STAROUSEDLÍCI PRO BUKOVINKU","7/7","0",2,"5","55,9","57%","0%",902
+"SNK - NEZÁVISLÍ OBCE BUKOVINKA","7/7","0",4,"3","49,4","43%","29%",903

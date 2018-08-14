@@ -1,9 +1,9 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"ADAM MRÁZ, NEZÁVISLÝ KANDIDÁT","1/7","18","0%","0%","1",0,801
-"MGR. MIROSLAVA MRÁZOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","47","100%","100%","1",0,802
-"DAGMAR MOROVÁ, NEZÁVISLÝ KANDIDÁT","1/7","52","100%","0%","0",0,803
-"ONDŘEJ MORO, NEZÁVISLÝ KANDIDÁT","1/7","52","0%","0%","1",0,804
-"MARTIN KLÍMA, NEZÁVISLÝ KANDIDÁT","1/7","28","0%","0%","0",0,805
-"ING. PETR BŰRGER, NEZÁVISLÝ KANDIDÁT","1/7","61","0%","100%","1",0,806
-"ING. ELIŠKA TALÍŘOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","33","100%","100%","1",0,807
-"JIŘÍ ŠESTÁK, NEZÁVISLÝ KANDIDÁT","1/7","48","0%","0%","1",0,808
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"ADAM MRÁZ, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","18","0%","0%",801
+"MGR. MIROSLAVA MRÁZOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","1",0,"0","47","100%","100%",802
+"DAGMAR MOROVÁ, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","52","100%","0%",803
+"ONDŘEJ MORO, NEZÁVISLÝ KANDIDÁT","1/7","1",0,"0","52","0%","0%",804
+"MARTIN KLÍMA, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","28","0%","0%",805
+"ING. PETR BŰRGER, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","61","0%","100%",806
+"ING. ELIŠKA TALÍŘOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","33","100%","100%",807
+"JIŘÍ ŠESTÁK, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","48","0%","0%",808

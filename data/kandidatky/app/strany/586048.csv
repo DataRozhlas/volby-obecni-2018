@@ -1,8 +1,8 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","11/11","46,2","27%","45%","2",0,1
-"""SDRUŽENÍ NESTRANÍKŮ""","11/11","49,3","36%","36%","0",7,158
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","6/11","59,8","33%","17%","0",0,47
-"MORAVANÉ","11/11","51,7","18%","18%","0",3,83
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ ""NAŠE BLATNICE""","11/11","47,3","36%","18%","0",1,901
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ 2014","11/11","42,5","18%","45%","4",1,902
-"PRO ROZVOJ OBCE A SPORTU","11/11","36,5","0%","27%","1",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","11/11","2",0,"4","46,2","27%","45%",1
+"""SDRUŽENÍ NESTRANÍKŮ""","11/11","0",7,"4","49,3","36%","36%",158
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","6/11","0",0,"1","59,8","33%","17%",47
+"MORAVANÉ","11/11","0",3,"8","51,7","18%","18%",83
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ ""NAŠE BLATNICE""","11/11","0",7,"4","47,3","36%","18%",901
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ 2014","11/11","0",5,"6","42,5","18%","45%",902
+"PRO ROZVOJ OBCE A SPORTU","11/11","0",1,"10","36,5","0%","27%",903

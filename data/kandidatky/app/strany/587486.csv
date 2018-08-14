@@ -1,4 +1,4 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","1/9","32","0%","100%","3",0,1
-"NEZAUJATÍ","9/9","37,2","22%","44%","6",2,901
-"""SNK I.""","9/9","50,9","33%","56%","0",1,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","1/9","3",0,"0","32","0%","100%",1
+"NEZAUJATÍ","9/9","0",2,"7","37,2","22%","44%",901
+"""SNK I.""","9/9","0",4,"5","50,9","33%","56%",902

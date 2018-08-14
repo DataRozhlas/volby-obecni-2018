@@ -1,13 +1,13 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"TOMÁŠ OŠMERA","1/7","30","0%","0%","0",0,801
-"MARCELA VRTALOVÁ","1/7","35","100%","0%","0",0,802
-"PAVLA KARAFIÁTOVÁ","1/7","25","100%","0%","0",0,803
-"VÁCLAV ŠINDLER","1/7","25","0%","0%","0",0,804
-"MGR. JAROSLAVA OŠMEROVÁ","1/7","36","100%","100%","0",0,805
-"PAVEL TEPLAN","1/7","64","0%","0%","0",0,806
-"STANISLAV FORTELNÝ","1/7","43","0%","0%","0",0,807
-"JAN KARAFIÁT","1/7","27","0%","0%","0",0,808
-"PETR ČERNOCH","1/7","53","0%","0%","0",0,809
-"PETR ŠINDLER","1/7","28","0%","0%","0",0,810
-"ING. MARTIN KŘÍŽ","1/7","35","0%","100%","0",0,811
-"DENISA ČERNOCHOVÁ","1/7","20","100%","0%","0",0,812
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"TOMÁŠ OŠMERA","1/7","0",0,"0","30","0%","0%",801
+"MARCELA VRTALOVÁ","1/7","0",0,"0","35","100%","0%",802
+"PAVLA KARAFIÁTOVÁ","1/7","0",0,"0","25","100%","0%",803
+"VÁCLAV ŠINDLER","1/7","0",0,"0","25","0%","0%",804
+"MGR. JAROSLAVA OŠMEROVÁ","1/7","0",0,"0","36","100%","100%",805
+"PAVEL TEPLAN","1/7","0",1,"0","64","0%","0%",806
+"STANISLAV FORTELNÝ","1/7","0",1,"0","43","0%","0%",807
+"JAN KARAFIÁT","1/7","0",1,"0","27","0%","0%",808
+"PETR ČERNOCH","1/7","0",0,"0","53","0%","0%",809
+"PETR ŠINDLER","1/7","0",0,"0","28","0%","0%",810
+"ING. MARTIN KŘÍŽ","1/7","0",0,"0","35","0%","100%",811
+"DENISA ČERNOCHOVÁ","1/7","0",0,"0","20","100%","0%",812

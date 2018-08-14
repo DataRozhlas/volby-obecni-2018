@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","51,1","40%","7%","6",0,1
-"MLADÍ PRO OBEC","15/15","35,9","27%","33%","5",2,901
-"""ZA OBEC KRÁSNĚJŠÍ""","15/15","45,1","33%","27%","4",0,902
-"ZA SPOLEČNÝ A SPOKOJENÝ ŽIVOT","15/15","38,4","53%","20%","0",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","6",0,"4","51,1","40%","7%",1
+"MLADÍ PRO OBEC","15/15","0",2,"13","35,9","27%","33%",901
+"""ZA OBEC KRÁSNĚJŠÍ""","15/15","0",8,"7","45,1","33%","27%",902
+"ZA SPOLEČNÝ A SPOKOJENÝ ŽIVOT","15/15","4",1,"5","38,4","53%","20%",903

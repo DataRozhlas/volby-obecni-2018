@@ -1,4 +1,4 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ - MALÁ VRBKA","5/5","49","20%","0%","2",0,901
-"""PRO ROZVOJ OBCE""","6/5","46,5","33%","50%","1",0,902
-"ZA OBNOVU OBCE","6/5","42","17%","0%","2",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ - MALÁ VRBKA","5/5","2",0,"2","49","20%","0%",901
+"""PRO ROZVOJ OBCE""","6/5","2",0,"3","46,5","33%","50%",902
+"ZA OBNOVU OBCE","6/5","0",3,"3","42","17%","0%",903

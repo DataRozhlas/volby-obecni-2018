@@ -1,8 +1,8 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"NESTRANÍCI","17/17","49,2","59%","29%","0",6,181
-"NESTRANÍCI S KDU - ČSL A ODS","17/17","43,3","24%","41%","0",3,353
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","17/17","52,1","65%","12%","3",0,47
-"SDRUŽENÍ STAROSTOVÉ A NEZÁVISLÍ","17/17","47,1","41%","59%","0",3,470
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","17/17","55,6","29%","29%","1",0,7
-"TOP 09","17/17","42,2","24%","35%","3",0,721
-"VOLBA PRO STARÝ PLZENEC A SEDLEC","17/17","44,8","29%","59%","4",1,901
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"NESTRANÍCI","17/17","4",1,"11","49,2","59%","29%",181
+"NESTRANÍCI S KDU - ČSL A ODS","17/17","0",11,"6","43,3","24%","41%",353
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","17/17","3",0,"6","52,1","65%","12%",47
+"SDRUŽENÍ STAROSTOVÉ A NEZÁVISLÍ","17/17","0",3,"14","47,1","41%","59%",470
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","17/17","1",0,"6","55,6","29%","29%",7
+"TOP 09","17/17","3",0,"12","42,2","24%","35%",721
+"VOLBA PRO STARÝ PLZENEC A SEDLEC","17/17","3",1,"9","44,8","29%","59%",901

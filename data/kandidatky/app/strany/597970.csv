@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ PRO ZMĚNU","7/7","43,7","57%","14%","3",0,901
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ ZA PRÁVA OBČANŮ","6/7","40,2","33%","0%","3",1,902
-"""SDRUŽENÍ NEZÁVISLÝCH ŽEN""","7/7","49,1","100%","0%","0",1,903
-"""SPORTOVCI""","9/7","41,2","0%","11%","0",2,904
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ PRO ZMĚNU","7/7","3",0,"4","43,7","57%","14%",901
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ ZA PRÁVA OBČANŮ","6/7","0",3,"3","40,2","33%","0%",902
+"""SDRUŽENÍ NEZÁVISLÝCH ŽEN""","7/7","0",3,"4","49,1","100%","0%",903
+"""SPORTOVCI""","9/7","0",3,"6","41,2","0%","11%",904

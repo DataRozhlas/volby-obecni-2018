@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","49,2","47%","33%","2",2,1
-"STAROSTOVÉ A NEZÁVISLÍ","15/15","50,5","53%","40%","0",7,166
-"""NOVÉ SMĚRY""","15/15","49,3","40%","27%","3",0,901
-"PRO OBEC","15/15","37,9","27%","53%","3",1,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","2",2,"4","49,2","47%","33%",1
+"STAROSTOVÉ A NEZÁVISLÍ","15/15","0",7,"8","50,5","53%","40%",166
+"""NOVÉ SMĚRY""","15/15","4",1,"9","49,3","40%","27%",901
+"PRO OBEC","15/15","0",7,"8","37,9","27%","53%",902

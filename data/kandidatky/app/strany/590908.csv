@@ -1,4 +1,4 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"HASIČI","9/9","34","11%","0%","6",0,901
-"SPORTOVCI","9/9","40,9","22%","0%","3",0,902
-"PRO KOUTY","6/9","42,8","33%","0%","0",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"HASIČI","9/9","0",0,"0","34","11%","0%",901
+"SPORTOVCI","9/9","0",5,"4","40,9","22%","0%",902
+"PRO KOUTY","6/9","0",2,"4","42,8","33%","0%",903

@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","9/9","43,8","33%","33%","2",0,1
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","9/9","57,8","11%","44%","2",0,47
-"OBČANSKÁ DEMOKRATICKÁ STRANA","9/9","36,7","22%","78%","5",0,53
-"""HASIČI PRO MOKRÉ LAZCE""","9/9","33,9","22%","22%","0",0,901
-"FOTBALOVÝ KLUB SOKOL","9/9","41,2","33%","33%","0",0,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","9/9","2",0,"5","43,8","33%","33%",1
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","9/9","2",0,"4","57,8","11%","44%",47
+"OBČANSKÁ DEMOKRATICKÁ STRANA","9/9","5",0,"5","36,7","22%","78%",53
+"""HASIČI PRO MOKRÉ LAZCE""","9/9","0",0,"0","33,9","22%","22%",901
+"FOTBALOVÝ KLUB SOKOL","9/9","0",0,"0","41,2","33%","33%",902

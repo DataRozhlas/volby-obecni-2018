@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","3/9","45","67%","33%","1",1,1
-"""JIHOČEŠI 2012""","9/9","40,4","44%","11%","0",3,766
-"ZA NOVÉ KESTŘANY","9/9","44,2","11%","11%","2",3,901
-"NEZÁVISLÍ ŠTĚKEŇ","9/9","49,2","44%","33%","0",6,902
-"SNK PRO ŠTĚKEŇ","9/9","48,8","11%","11%","0",2,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","3/9","1",1,"0","45","67%","33%",1
+"""JIHOČEŠI 2012""","9/9","0",3,"6","40,4","44%","11%",766
+"ZA NOVÉ KESTŘANY","9/9","0",4,"5","44,2","11%","11%",901
+"NEZÁVISLÍ ŠTĚKEŇ","9/9","0",6,"3","49,2","44%","33%",902
+"SNK PRO ŠTĚKEŇ","9/9","0",4,"5","48,8","11%","11%",903

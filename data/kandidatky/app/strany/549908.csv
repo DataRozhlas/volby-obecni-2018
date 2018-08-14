@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"ING. JOSEF POHANKA","1/7","64","0%","100%","1",0,801
-"JAN BOROVKA","1/7","29","0%","0%","0",0,802
-"ING. MILAN SCHILD","1/7","33","0%","100%","0",0,803
-"ING. ARCH. LUCIE POHANKOVÁ, PH.D.","1/7","33","100%","100%","1",0,804
-"ZDEŇKA DVOŘÁKOVÁ","1/7","44","100%","0%","1",0,805
-"PETR JAKEŠ","1/7","31","0%","0%","1",0,806
-"BC. JIŘÍ KAPEŠ","1/7","37","0%","100%","1",0,807
-"ING. IVAN SKLENÁŘ","1/7","59","0%","100%","1",0,808
-"ROMAN POLNICKÝ","1/7","45","0%","0%","1",0,809
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"ING. JOSEF POHANKA","1/7","0",1,"0","64","0%","100%",801
+"JAN BOROVKA","1/7","0",0,"0","29","0%","0%",802
+"ING. MILAN SCHILD","1/7","0",0,"0","33","0%","100%",803
+"ING. ARCH. LUCIE POHANKOVÁ, PH.D.","1/7","0",0,"0","33","100%","100%",804
+"ZDEŇKA DVOŘÁKOVÁ","1/7","0",1,"0","44","100%","0%",805
+"PETR JAKEŠ","1/7","0",1,"0","31","0%","0%",806
+"BC. JIŘÍ KAPEŠ","1/7","0",0,"0","37","0%","100%",807
+"ING. IVAN SKLENÁŘ","1/7","0",1,"0","59","0%","100%",808
+"ROMAN POLNICKÝ","1/7","0",1,"0","45","0%","0%",809

@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""DLOUHÝ  ÚJEZD""","9/7","51,2","22%","22%","2",0,901
-"""PRO OBEC I.""","8/7","46,9","62%","12%","4",0,902
-"""PRO OBEC II.""","7/7","43,4","57%","14%","0",0,903
-"DEVÍTKA","9/7","33,3","44%","0%","1",0,904
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""DLOUHÝ  ÚJEZD""","9/7","0",6,"3","51,2","22%","22%",901
+"""PRO OBEC I.""","8/7","0",1,"7","46,9","62%","12%",902
+"""PRO OBEC II.""","7/7","0",3,"4","43,4","57%","14%",903
+"DEVÍTKA","9/7","0",1,"8","33,3","44%","0%",904

@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","4/7","29","0%","0%","0",0,47
-"VÁCLAV LADER","1/7","41","0%","0%","0",0,801
-"SOKOL UHY","5/7","35,8","0%","0%","4",0,901
-"ČESKÝ SVAZ ŽEN UHY","5/7","47,2","0%","20%","3",0,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","4/7","0",0,"0","29","0%","0%",47
+"VÁCLAV LADER","1/7","0",1,"0","41","0%","0%",801
+"SOKOL UHY","5/7","4",0,"3","35,8","0%","0%",901
+"ČESKÝ SVAZ ŽEN UHY","5/7","3",0,"1","47,2","0%","20%",902

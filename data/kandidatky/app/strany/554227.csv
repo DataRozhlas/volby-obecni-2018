@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"POLITICKÉ HNUTÍ VÍTKOVICE","15/15","44","33%","27%","0",4,1018
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","58,9","40%","13%","2",3,47
-"JSME OSTRAVA - STRANA ZELENÝCH S PODPOROU PIRÁTŮ","15/15","39,2","47%","20%","2",0,5
-"VÍCE PRO VÍTKOVICE","15/15","55,9","53%","33%","0",7,525
-"OBČANSKÁ DEMOKRATICKÁ STRANA","15/15","44,4","53%","40%","4",0,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","47,3","33%","13%","5",1,7
-"OSTRAVAK","15/15","42,2","40%","13%","0",1,755
-"ÚSVIT PŘÍMÉ DEMOKRACIE","15/15","45,8","47%","27%","0",1,792
-"ROMSKÁ DEMOKRATICKÁ STRANA","15/15","39,1","13%","0%","0",2,794
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"POLITICKÉ HNUTÍ VÍTKOVICE","15/15","0",4,"11","44","33%","27%",1018
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","2",3,"6","58,9","40%","13%",47
+"JSME OSTRAVA - STRANA ZELENÝCH S PODPOROU PIRÁTŮ","15/15","0",0,"0","39,2","47%","20%",5
+"VÍCE PRO VÍTKOVICE","15/15","0",7,"8","55,9","53%","33%",525
+"OBČANSKÁ DEMOKRATICKÁ STRANA","15/15","4",0,"7","44,4","53%","40%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","5",1,"6","47,3","33%","13%",7
+"OSTRAVAK","15/15","0",1,"14","42,2","40%","13%",755
+"ÚSVIT PŘÍMÉ DEMOKRACIE","15/15","0",1,"14","45,8","47%","27%",792
+"ROMSKÁ DEMOKRATICKÁ STRANA","15/15","0",2,"13","39,1","13%","0%",794

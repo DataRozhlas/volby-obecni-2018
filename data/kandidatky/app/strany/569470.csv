@@ -1,13 +1,14 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"JAROSLAV JAMBOR","1/7","62","0%","0%","0",0,801
-"JIŘÍ JAMBOR","1/7","39","0%","0%","0",0,802
-"PETR KRUNTORÁD","1/7","32","0%","0%","1",0,803
-"JOSEF DOLEŽAL","1/7","31","0%","0%","1",0,804
-"JAROSLAV KRUNTORÁD","1/7","58","0%","0%","0",0,805
-"TOMÁŠ DOLEŽAL","1/7","39","0%","0%","1",0,806
-"ING. LUKÁŠ KREUZ","1/7","34","0%","100%","1",0,807
-"MGR. VÁCLAV VYDLÁK","1/7","47","0%","100%","1",0,808
-"ING. MONIKA ZONDERVANOVÁ","1/7","42","100%","100%","0",0,809
-"PETR BLÁHA","1/7","52","0%","0%","1",0,810
-"LIBOR KREUZMANN","1/7","32","0%","0%","0",0,811
-"ZDENĚK PAVLAS","1/7","60","0%","0%","1",0,812
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"JAROSLAV JAMBOR","1/7","1",0,"0","62","0%","0%",801
+"JIŘÍ JAMBOR","1/7","1",0,"0","39","0%","0%",802
+"JIŘÍ JAMBOR","1/7","0",0,"0","39","0%","0%",802
+"PETR KRUNTORÁD","1/7","0",0,"0","32","0%","0%",803
+"JOSEF DOLEŽAL","1/7","0",0,"0","31","0%","0%",804
+"JAROSLAV KRUNTORÁD","1/7","0",0,"0","58","0%","0%",805
+"TOMÁŠ DOLEŽAL","1/7","0",0,"0","39","0%","0%",806
+"ING. LUKÁŠ KREUZ","1/7","1",0,"0","34","0%","100%",807
+"MGR. VÁCLAV VYDLÁK","1/7","1",0,"0","47","0%","100%",808
+"ING. MONIKA ZONDERVANOVÁ","1/7","1",0,"0","42","100%","100%",809
+"PETR BLÁHA","1/7","1",0,"0","52","0%","0%",810
+"LIBOR KREUZMANN","1/7","0",0,"0","32","0%","0%",811
+"ZDENĚK PAVLAS","1/7","1",0,"0","60","0%","0%",812

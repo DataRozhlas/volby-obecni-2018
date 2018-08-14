@@ -1,12 +1,12 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","25/25","50,6","28%","60%","3",0,1
-"SPOLEČNĚ PRO BROD","25/25","51,4","28%","76%","0",16,364
-"BROĎÁCI","25/25","50,7","28%","60%","0",1,449
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","25/25","55,6","20%","24%","5",0,47
-"""OBČANÉ MĚSTU, MĚSTO OBČANŮM""","18/25","47,6","17%","22%","0",7,483
-"ZMĚNA PRO HAVLÍČKŮV BROD","25/25","50,2","28%","44%","0",2,510
-"OBČANSKÁ DEMOKRATICKÁ STRANA","25/25","45","28%","52%","5",0,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","25/25","50,1","24%","52%","6",1,7
-"TOP 09","25/25","44,6","16%","60%","2",0,721
-"ŽENY ZA BROD","25/25","50,3","100%","28%","1",0,731
-"ANO 2011","25/25","42,4","4%","20%","0",0,768
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","25/25","3",0,"4","50,6","28%","60%",1
+"SPOLEČNĚ PRO BROD","25/25","0",20,"5","51,4","28%","76%",364
+"BROĎÁCI","25/25","0",18,"7","50,7","28%","60%",449
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","25/25","5",0,"12","55,6","20%","24%",47
+"""OBČANÉ MĚSTU, MĚSTO OBČANŮM""","18/25","0",9,"9","47,6","17%","22%",483
+"ZMĚNA PRO HAVLÍČKŮV BROD","25/25","0",2,"23","50,2","28%","44%",510
+"OBČANSKÁ DEMOKRATICKÁ STRANA","25/25","5",0,"10","45","28%","52%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","25/25","6",1,"14","50,1","24%","52%",7
+"TOP 09","25/25","2",0,"8","44,6","16%","60%",721
+"ŽENY ZA BROD","25/25","1",0,"8","50,3","100%","28%",731
+"ANO 2011","25/25","0",0,"0","42,4","4%","20%",768

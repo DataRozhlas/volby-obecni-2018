@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""SDRUŽENÍ NESTRANÍKŮ""","15/15","38,3","27%","0%","0",12,158
-"PRO HORNÍ PLANOU SPOLEČNĚ II","15/15","52,1","27%","33%","2",2,427
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","61","20%","7%","2",2,47
-"PRO HORNÍ PLANOU SPOLEČNĚ I","15/15","42,1","27%","40%","4",1,470
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","10/15","44,2","30%","20%","1",0,7
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""SDRUŽENÍ NESTRANÍKŮ""","15/15","0",12,"3","38,3","27%","0%",158
+"PRO HORNÍ PLANOU SPOLEČNĚ II","15/15","2",4,"5","52,1","27%","33%",427
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","2",2,"4","61","20%","7%",47
+"PRO HORNÍ PLANOU SPOLEČNĚ I","15/15","0",11,"4","42,1","27%","40%",470
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","10/15","1",0,"5","44,2","30%","20%",7

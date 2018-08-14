@@ -1,11 +1,11 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"PAVEL PAŘÍZEK","1/7","31","0%","0%","1",0,801
-"MARTA KAFUŇKOVÁ","1/7","47","100%","0%","0",0,802
-"KATEŘINA PISKOVÁ","1/7","34","100%","0%","0",0,803
-"LIBOR JIROVSKÝ","1/7","41","0%","0%","1",0,804
-"LUKÁŠ MAREK","1/7","21","0%","0%","1",0,805
-"PAVEL NEUMAN","1/7","43","0%","0%","1",0,806
-"KAREL PEŠTÁL","1/7","43","0%","0%","1",0,807
-"MARTIN CEJPEK","1/7","18","0%","0%","0",0,808
-"PETR SEMRÁD","1/7","32","0%","0%","1",0,809
-"RADEK NOVÁČEK","1/7","35","0%","0%","0",0,810
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"PAVEL PAŘÍZEK","1/7","0",1,"0","31","0%","0%",801
+"MARTA KAFUŇKOVÁ","1/7","0",0,"0","47","100%","0%",802
+"KATEŘINA PISKOVÁ","1/7","0",1,"0","34","100%","0%",803
+"LIBOR JIROVSKÝ","1/7","0",1,"0","41","0%","0%",804
+"LUKÁŠ MAREK","1/7","0",0,"0","21","0%","0%",805
+"PAVEL NEUMAN","1/7","0",1,"0","43","0%","0%",806
+"KAREL PEŠTÁL","1/7","0",1,"0","43","0%","0%",807
+"MARTIN CEJPEK","1/7","0",0,"0","18","0%","0%",808
+"PETR SEMRÁD","1/7","0",1,"0","32","0%","0%",809
+"RADEK NOVÁČEK","1/7","0",1,"0","35","0%","0%",810

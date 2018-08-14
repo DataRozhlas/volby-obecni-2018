@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""VAŠE VOLBA""","15/15","50,1","40%","40%","6",0,415
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","57,2","33%","7%","3",0,47
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","50,5","20%","20%","4",0,7
-"RÁJEČKOVSKÉ ŽENY","15/15","40,3","100%","27%","2",0,901
-"SDRUŽENÍ SPOLEČENSKÝCH AKTIVIT RÁJEČKO","15/15","48,1","13%","20%","0",0,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""VAŠE VOLBA""","15/15","0",12,"3","50,1","40%","40%",415
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","3",0,"2","57,2","33%","7%",47
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","4",0,"5","50,5","20%","20%",7
+"RÁJEČKOVSKÉ ŽENY","15/15","0",7,"8","40,3","100%","27%",901
+"SDRUŽENÍ SPOLEČENSKÝCH AKTIVIT RÁJEČKO","15/15","0",2,"13","48,1","13%","20%",902

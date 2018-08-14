@@ -1,13 +1,13 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","1/7","65","0%","0%","0",0,47
-"JAROSLAV KAREŠ, NEZÁVISLÝ KANDIDÁT","1/7","67","0%","0%","0",0,801
-"JIŘÍ ŠTIKAR, NEZÁVISLÝ KANDIDÁT","1/7","58","0%","0%","1",0,802
-"PAVEL HNÍZDIL, NEZÁVISLÝ KANDIDÁT","1/7","46","0%","0%","1",0,803
-"ING. JAN KUBERNÁT, NEZÁVISLÝ KANDIDÁT","1/7","34","0%","100%","1",0,804
-"ING. STANISLAVA ŠIDLOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","59","100%","100%","1",0,805
-"JOSEF JURIČIČ, NEZÁVISLÝ KANDIDÁT","1/7","42","0%","0%","1",0,806
-"MARIAN GEŤKO, NEZÁVISLÝ KANDIDÁT","1/7","43","0%","0%","1",0,807
-"JOSEF ŠEDA, NEZÁVISLÝ KANDIDÁT","1/7","31","0%","0%","1",0,808
-"LUCIE PATRICIE DUDOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","39","100%","0%","0",0,809
-"MATĚJKA BENJAMIN, NEZÁVISLÝ KANDIDÁT","1/7","63","0%","0%","0",0,810
-"OBČANÉ DĚPOLTOVIC A NIV","9/7","38,2","56%","0%","0",0,901
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","1/7","0",0,"0","65","0%","0%",47
+"JAROSLAV KAREŠ, NEZÁVISLÝ KANDIDÁT","1/7","1",0,"0","67","0%","0%",801
+"JIŘÍ ŠTIKAR, NEZÁVISLÝ KANDIDÁT","1/7","1",0,"0","58","0%","0%",802
+"PAVEL HNÍZDIL, NEZÁVISLÝ KANDIDÁT","1/7","1",0,"0","46","0%","0%",803
+"ING. JAN KUBERNÁT, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","34","0%","100%",804
+"ING. STANISLAVA ŠIDLOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","59","100%","100%",805
+"JOSEF JURIČIČ, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","42","0%","0%",806
+"MARIAN GEŤKO, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","43","0%","0%",807
+"JOSEF ŠEDA, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","31","0%","0%",808
+"LUCIE PATRICIE DUDOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","39","100%","0%",809
+"MATĚJKA BENJAMIN, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","63","0%","0%",810
+"OBČANÉ DĚPOLTOVIC A NIV","9/7","0",1,"8","38,2","56%","0%",901

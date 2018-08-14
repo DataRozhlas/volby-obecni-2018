@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","42,7","47%","27%","4",1,1
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ A OBČANSKÉ DEMOKRATICKÉ STRANY","15/15","35,2","47%","0%","0",3,389
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","45,1","27%","13%","3",0,7
-"RUDOLF PĚRŠALA, NEZÁVISLÝ KANDIDÁT","1/15","59","0%","100%","0",0,801
-"JOSEF HRDINA, NEZÁVISLÝ KANDIDÁT","1/15","66","0%","0%","0",0,802
-"""SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ HOLUBIC""","15/15","45,2","60%","33%","5",0,901
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","4",1,"5","42,7","47%","27%",1
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ A OBČANSKÉ DEMOKRATICKÉ STRANY","15/15","0",9,"6","35,2","47%","0%",389
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","3",0,"6","45,1","27%","13%",7
+"RUDOLF PĚRŠALA, NEZÁVISLÝ KANDIDÁT","1/15","0",1,"0","59","0%","100%",801
+"JOSEF HRDINA, NEZÁVISLÝ KANDIDÁT","1/15","0",0,"0","66","0%","0%",802
+"""SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ HOLUBIC""","15/15","0",9,"6","45,2","60%","33%",901

@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","50,9","60%","40%","1",0,1
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","52,2","13%","7%","2",0,47
-"""NAŠE OBEC""","15/15","44,2","33%","20%","0",1,470
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","44,8","53%","47%","4",2,7
-"TOP 09","15/15","49,9","27%","40%","1",1,721
-"NEZÁVISLÍ PRO ČESKOU VES","15/15","49,7","7%","33%","1",1,901
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","1",0,"3","50,9","60%","40%",1
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","2",0,"9","52,2","13%","7%",47
+"""NAŠE OBEC""","15/15","0",11,"4","44,2","33%","20%",470
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","4",2,"9","44,8","53%","47%",7
+"TOP 09","15/15","1",1,"6","49,9","27%","40%",721
+"NEZÁVISLÍ PRO ČESKOU VES","15/15","2",5,"4","49,7","7%","33%",901

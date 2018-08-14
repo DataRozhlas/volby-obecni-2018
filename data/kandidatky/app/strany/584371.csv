@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"STAROSTOVÉ A NEZÁVISLÍ","15/15","47,2","47%","20%","2",3,166
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","48,8","47%","7%","1",3,47
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","14/15","42,2","36%","21%","0",0,7
-"NAŠE BŘEZÍ","15/15","47,9","40%","40%","0",0,901
-"""PRO ROZVOJ OBCE""","15/15","46,6","27%","20%","2",0,902
-"KOVÁRNA","15/15","41,5","13%","0%","0",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"STAROSTOVÉ A NEZÁVISLÍ","15/15","0",8,"7","47,2","47%","20%",166
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","1",3,"7","48,8","47%","7%",47
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","14/15","0",0,"0","42,2","36%","21%",7
+"NAŠE BŘEZÍ","15/15","2",3,"6","47,9","40%","40%",901
+"""PRO ROZVOJ OBCE""","15/15","0",9,"6","46,6","27%","20%",902
+"KOVÁRNA","15/15","0",4,"11","41,5","13%","0%",903

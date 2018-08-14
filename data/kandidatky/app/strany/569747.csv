@@ -1,4 +1,4 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""NOVÁ VOLBA""","9/7","41,8","56%","11%","7",0,901
-"SNK - PROSPERITA","7/7","41,1","14%","0%","0",0,902
-"NOVÁ GENERACE","7/7","45,3","29%","14%","0",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""NOVÁ VOLBA""","9/7","0",5,"4","41,8","56%","11%",901
+"SNK - PROSPERITA","7/7","0",0,"0","41,1","14%","0%",902
+"NOVÁ GENERACE","7/7","0",0,"0","45,3","29%","14%",903

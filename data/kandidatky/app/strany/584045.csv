@@ -1,12 +1,12 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"STRANA PRO OTEVŘENOU SPOLEČNOST","15/15","31,6","33%","47%","0",2,103
-"SNK EVROPŠTÍ DEMOKRATÉ","15/15","50,2","27%","67%","1",1,129
-"""SDRUŽENÍ NESTRANÍKŮ""","15/15","49,8","33%","40%","6",1,158
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ A NESTRANÍCI","15/15","45,7","40%","73%","0",3,355
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","12/15","48,7","42%","33%","1",0,7
-"""OBČANÉ MĚSTU, MĚSTO OBČANŮM""","15/15","35,8","60%","33%","0",0,734
-"PRO SPORT A ZDRAVÍ","15/15","39,2","47%","40%","0",3,785
-"MORAVANÉ","15/15","43,6","53%","7%","0",5,83
-"NEZÁVISLÍ","15/15","53","33%","7%","1",0,88
-"SDRUŽENÍ PRO ÚJEZD","15/15","36,3","20%","40%","2",1,901
-"TJ SOKOL ÚJEZD U BRNA","15/15","45,9","27%","47%","1",0,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"STRANA PRO OTEVŘENOU SPOLEČNOST","15/15","0",2,"13","31,6","33%","47%",103
+"SNK EVROPŠTÍ DEMOKRATÉ","15/15","1",1,"7","50,2","27%","67%",129
+"""SDRUŽENÍ NESTRANÍKŮ""","15/15","6",1,"5","49,8","33%","40%",158
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ A NESTRANÍCI","15/15","0",11,"4","45,7","40%","73%",355
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","12/15","1",0,"6","48,7","42%","33%",7
+"""OBČANÉ MĚSTU, MĚSTO OBČANŮM""","15/15","0",0,"0","35,8","60%","33%",734
+"PRO SPORT A ZDRAVÍ","15/15","0",3,"12","39,2","47%","40%",785
+"MORAVANÉ","15/15","0",5,"10","43,6","53%","7%",83
+"NEZÁVISLÍ","15/15","1",0,"3","53","33%","7%",88
+"SDRUŽENÍ PRO ÚJEZD","15/15","0",1,"14","36,3","20%","40%",901
+"TJ SOKOL ÚJEZD U BRNA","15/15","2",0,"9","45,9","27%","47%",902

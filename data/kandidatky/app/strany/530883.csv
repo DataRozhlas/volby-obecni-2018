@@ -1,8 +1,8 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","21/21","44,8","38%","52%","2",0,1
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","21/21","63,5","33%","19%","2",0,47
-"OBČANSKÁ DEMOKRATICKÁ STRANA","21/21","46,1","38%","33%","1",0,53
-"""VOLBA PRO MĚSTO VLAŠIM""","21/21","52,2","38%","48%","11",8,672
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","21/21","45,7","33%","52%","3",0,7
-"ANO 2011","21/21","30,6","29%","24%","0",0,768
-"NEZÁVISLÍ","21/21","45,7","43%","57%","2",0,88
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","21/21","2",0,"9","44,8","38%","52%",1
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","21/21","2",0,"6","63,5","33%","19%",47
+"OBČANSKÁ DEMOKRATICKÁ STRANA","21/21","1",0,"10","46,1","38%","33%",53
+"""VOLBA PRO MĚSTO VLAŠIM""","21/21","0",19,"2","52,2","38%","48%",672
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","21/21","3",0,"8","45,7","33%","52%",7
+"ANO 2011","21/21","0",0,"0","30,6","29%","24%",768
+"NEZÁVISLÍ","21/21","2",0,"10","45,7","43%","57%",88

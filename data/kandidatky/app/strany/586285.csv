@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","9/9","48,7","22%","11%","5",0,1
-"ANTONÍN KUBICA","1/9","56","0%","0%","0",0,801
-"KOZOJÍDSKÉ SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ","9/9","42,9","33%","56%","4",0,901
-"""NEZÁVISLÍ""","9/9","40,3","11%","0%","0",1,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","9/9","5",0,"6","48,7","22%","11%",1
+"ANTONÍN KUBICA","1/9","0",0,"0","56","0%","0%",801
+"KOZOJÍDSKÉ SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ","9/9","4",0,"4","42,9","33%","56%",901
+"""NEZÁVISLÍ""","9/9","0",2,"7","40,3","11%","0%",902

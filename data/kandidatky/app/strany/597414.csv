@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""JSME HUZOVÁ""","9/9","35,2","44%","22%","2",0,901
-"""SDRUŽENÍ OBCE ARNOLTICE - VEVEŘÍ""","9/9","39,1","67%","11%","3",0,902
-"""SPORTEM K PROSPERITĚ OBCE""","9/9","58,3","11%","33%","1",0,903
-"JDE TO!","9/9","35,6","44%","22%","3",0,904
-"SOVA","9/9","36,2","33%","22%","0",0,905
-"OBČANŮM VSTŘÍC SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ","9/9","39,7","33%","0%","0",0,906
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""JSME HUZOVÁ""","9/9","2",0,"6","35,2","44%","22%",901
+"""SDRUŽENÍ OBCE ARNOLTICE - VEVEŘÍ""","9/9","0",3,"6","39,1","67%","11%",902
+"""SPORTEM K PROSPERITĚ OBCE""","9/9","3",0,"4","58,3","11%","33%",903
+"JDE TO!","9/9","0",1,"8","35,6","44%","22%",904
+"SOVA","9/9","3",0,"6","36,2","33%","22%",905
+"OBČANŮM VSTŘÍC SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ","9/9","0",2,"7","39,7","33%","0%",906

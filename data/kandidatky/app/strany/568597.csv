@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","2/9","45,5","50%","0%","0",0,47
-"""SOS""","5/9","46","0%","40%","2",0,901
-"PRO OBEC","9/9","38","44%","11%","4",0,902
-"KARLOV","9/9","43,1","22%","0%","3",0,903
-"RONOVEC","9/9","49","22%","0%","0",0,904
-"""OBČANKY DK""","8/9","35,9","100%","12%","0",0,905
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","2/9","0",0,"0","45,5","50%","0%",47
+"""SOS""","5/9","0",1,"4","46","0%","40%",901
+"PRO OBEC","9/9","0",3,"6","38","44%","11%",902
+"KARLOV","9/9","0",5,"4","43,1","22%","0%",903
+"RONOVEC","9/9","0",4,"5","49","22%","0%",904
+"""OBČANKY DK""","8/9","0",0,"0","35,9","100%","12%",905

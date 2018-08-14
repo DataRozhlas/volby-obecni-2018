@@ -1,11 +1,11 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"MICHAL ČEJKA, NEZÁVISLÝ KANDIDÁT","1/9","36","0%","0%","1",0,801
-"PAVEL BÁRDY, NEZÁVISLÝ KANDIDÁT","1/9","46","0%","0%","1",0,802
-"DAVID ŠKOLNÍK, NEZÁVISLÝ KANDIDÁT","1/9","38","0%","100%","1",0,803
-"DANIEL KOMÁREK, NEZÁVISLÝ KANDIDÁT","1/9","25","0%","0%","1",0,804
-"ING. PETRA PETROVICKÁ, NEZÁVISLÝ KANDIDÁT","1/9","38","100%","100%","1",0,805
-"MGR. EVA NEPRÁŠKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","38","100%","100%","1",0,806
-"PECA JIŘÍ, NEZÁVISLÝ KANDIDÁT","1/9","40","0%","0%","1",0,807
-"LOUDOVÁ BLANKA, NEZÁVISLÝ KANDIDÁT","1/9","50","100%","0%","1",0,808
-"JITKA VIDIEČANOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","32","100%","0%","0",0,809
-"JOSEF TOMÁNEK, NEZÁVISLÝ KANDIDÁT","1/9","50","0%","0%","1",0,810
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"MICHAL ČEJKA, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","36","0%","0%",801
+"PAVEL BÁRDY, NEZÁVISLÝ KANDIDÁT","1/9","1",0,"0","46","0%","0%",802
+"DAVID ŠKOLNÍK, NEZÁVISLÝ KANDIDÁT","1/9","0",1,"0","38","0%","100%",803
+"DANIEL KOMÁREK, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","25","0%","0%",804
+"ING. PETRA PETROVICKÁ, NEZÁVISLÝ KANDIDÁT","1/9","1",0,"0","38","100%","100%",805
+"MGR. EVA NEPRÁŠKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","1",0,"0","38","100%","100%",806
+"PECA JIŘÍ, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","40","0%","0%",807
+"LOUDOVÁ BLANKA, NEZÁVISLÝ KANDIDÁT","1/9","0",1,"0","50","100%","0%",808
+"JITKA VIDIEČANOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","32","100%","0%",809
+"JOSEF TOMÁNEK, NEZÁVISLÝ KANDIDÁT","1/9","1",0,"0","50","0%","0%",810

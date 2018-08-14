@@ -1,4 +1,4 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""ÚDOL PRO VŠECHNY""","9/9","55,8","56%","22%","9",0,901
-"""SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ""","9/9","39","11%","0%","0",0,902
-"""ÚDOL ŽIJE""","9/9","38,3","22%","44%","0",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""ÚDOL PRO VŠECHNY""","9/9","0",1,"8","55,8","56%","22%",901
+"""SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ""","9/9","0",0,"0","39","11%","0%",902
+"""ÚDOL ŽIJE""","9/9","0",2,"7","38,3","22%","44%",903

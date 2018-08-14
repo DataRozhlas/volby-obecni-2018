@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","8/7","46,5","12%","62%","0",2,1
-"""SDRUŽENÍ PRO RAPOTICE""","7/7","40,4","0%","14%","3",0,901
-"HLAS RAPOTIC","7/7","46,4","14%","0%","4",0,902
-"OBČANÉ RAPOTIC","6/7","33,3","17%","17%","0",1,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","8/7","0",2,"6","46,5","12%","62%",1
+"""SDRUŽENÍ PRO RAPOTICE""","7/7","0",3,"4","40,4","0%","14%",901
+"HLAS RAPOTIC","7/7","4",0,"4","46,4","14%","0%",902
+"OBČANÉ RAPOTIC","6/7","0",1,"5","33,3","17%","17%",903

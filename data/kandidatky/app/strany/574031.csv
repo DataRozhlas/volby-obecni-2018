@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","9/9","41,9","100%","11%","0",4,7
-"NOVÝ SMĚR","9/9","53,4","11%","0%","2",2,901
-"ZA LEPŠÍ OBEC HEJTMÁNKOVICE","9/9","46","33%","0%","1",0,902
-"""HEJTMÁNCI""","9/9","38,1","22%","22%","5",3,903
-"ZA HEZKÉ HEJTMÁNKOVICE","9/9","48,7","44%","33%","1",0,904
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","9/9","0",4,"5","41,9","100%","11%",7
+"NOVÝ SMĚR","9/9","0",2,"7","53,4","11%","0%",901
+"ZA LEPŠÍ OBEC HEJTMÁNKOVICE","9/9","0",8,"1","46","33%","0%",902
+"""HEJTMÁNCI""","9/9","0",4,"5","38,1","22%","22%",903
+"ZA HEZKÉ HEJTMÁNKOVICE","9/9","0",8,"1","48,7","44%","33%",904

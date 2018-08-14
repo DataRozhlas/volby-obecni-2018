@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","7/7","51,7","43%","14%","2",0,47
-"DRUŽSTVO PRO OBEC","8/7","46,8","25%","0%","2",0,901
-"NEZÁVISLÍ KANDIDÁTI","6/7","32,5","33%","50%","0",0,902
-"""OBEC PRO KAŽDÉHO""","7/7","40","43%","43%","3",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","7/7","2",0,"2","51,7","43%","14%",47
+"DRUŽSTVO PRO OBEC","8/7","0",1,"7","46,8","25%","0%",901
+"NEZÁVISLÍ KANDIDÁTI","6/7","0",0,"0","32,5","33%","50%",902
+"""OBEC PRO KAŽDÉHO""","7/7","3",2,"1","40","43%","43%",903

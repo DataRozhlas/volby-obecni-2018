@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","9/11","58,7","33%","11%","2",0,1
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","11/11","61","36%","0%","2",0,47
-"PETR SUCHÝ","1/11","35","0%","0%","0",0,801
-"RADIM REJMONT","1/11","35","0%","0%","0",0,802
-"SPOLEČNĚ PRO OBČANY","11/11","41","18%","27%","6",1,901
-"ZA MOSTEK LEPŠÍ","11/11","43,7","36%","36%","1",0,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","9/11","2",0,"4","58,7","33%","11%",1
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","11/11","2",0,"8","61","36%","0%",47
+"PETR SUCHÝ","1/11","0",0,"0","35","0%","0%",801
+"RADIM REJMONT","1/11","0",1,"0","35","0%","0%",802
+"SPOLEČNĚ PRO OBČANY","11/11","0",2,"9","41","18%","27%",901
+"ZA MOSTEK LEPŠÍ","11/11","6",0,"3","43,7","36%","36%",902

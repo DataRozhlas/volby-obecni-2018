@@ -1,9 +1,9 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"SNK EVROPŠTÍ DEMOKRATÉ","21/21","46","38%","33%","3",0,129
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","21/21","49,5","29%","0%","3",1,47
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","21/21","52,6","24%","38%","6",0,7
-"STRANA SOUKROMNÍKŮ ČESKÉ REPUBLIKY","21/21","44,7","43%","5%","1",5,716
-"ANO 2011","21/21","43,3","29%","19%","0",8,768
-"OBČANSKÉ SDRUŽENÍ PRO VRBNO","21/21","46,2","48%","24%","5",1,901
-"""SPORTOVCI VRBNO P. P.""","21/21","48,1","19%","10%","0",8,902
-"SPOLEK PŘÁTELÉ VRBENSKA","21/21","51,6","48%","14%","0",1,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"SNK EVROPŠTÍ DEMOKRATÉ","21/21","3",0,"13","46","38%","33%",129
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","21/21","3",1,"9","49,5","29%","0%",47
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","21/21","6",0,"11","52,6","24%","38%",7
+"STRANA SOUKROMNÍKŮ ČESKÉ REPUBLIKY","21/21","0",8,"13","44,7","43%","5%",716
+"ANO 2011","21/21","0",8,"13","43,3","29%","19%",768
+"OBČANSKÉ SDRUŽENÍ PRO VRBNO","21/21","0",3,"18","46,2","48%","24%",901
+"""SPORTOVCI VRBNO P. P.""","21/21","0",8,"13","48,1","19%","10%",902
+"SPOLEK PŘÁTELÉ VRBENSKA","21/21","0",9,"12","51,6","48%","14%",903

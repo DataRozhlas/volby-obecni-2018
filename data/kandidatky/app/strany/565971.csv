@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"VOLBA PRO MĚSTO","28/29","45,5","21%","46%","0",1,113
-"UNIE PRO SPORT A ZDRAVÍ","29/29","49,2","28%","52%","5",1,119
-"KOALICE PRO LOUNY","29/29","44,2","41%","52%","2",0,303
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","29/29","60,6","17%","28%","6",0,47
-"OBČANSKÁ DEMOKRATICKÁ STRANA","29/29","49,2","21%","62%","7",1,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","29/29","47,1","31%","66%","6",1,7
-"STRANA SOUKROMNÍKŮ ČESKÉ REPUBLIKY","29/29","57,8","31%","14%","0",4,716
-"TOP 09","29/29","41,2","31%","62%","3",0,721
-"ANO 2011","29/29","41,2","34%","24%","0",0,768
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"VOLBA PRO MĚSTO","28/29","0",1,"27","45,5","21%","46%",113
+"UNIE PRO SPORT A ZDRAVÍ","29/29","5",1,"9","49,2","28%","52%",119
+"KOALICE PRO LOUNY","29/29","2",0,"10","44,2","41%","52%",303
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","29/29","6",0,"11","60,6","17%","28%",47
+"OBČANSKÁ DEMOKRATICKÁ STRANA","29/29","7",1,"10","49,2","21%","62%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","29/29","6",1,"18","47,1","31%","66%",7
+"STRANA SOUKROMNÍKŮ ČESKÉ REPUBLIKY","29/29","0",4,"25","57,8","31%","14%",716
+"TOP 09","29/29","3",0,"19","41,2","31%","62%",721
+"ANO 2011","29/29","0",0,"0","41,2","34%","24%",768

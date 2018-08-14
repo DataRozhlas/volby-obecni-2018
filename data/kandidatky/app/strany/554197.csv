@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","9/15","50","22%","33%","1",0,7
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ I.","15/15","43,3","33%","60%","3",0,901
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ II.","15/15","47,5","27%","33%","4",3,902
-"HLAS PRO BRANKU","12/15","24,3","8%","33%","4",0,903
-"HASIČI LIDEM","15/15","30,7","27%","13%","0",0,904
-"PRO OBČANY","15/15","43,3","53%","13%","0",0,905
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","9/15","1",0,"4","50","22%","33%",7
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ I.","15/15","4",1,"12","43,3","33%","60%",901
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ II.","15/15","3",4,"9","47,5","27%","33%",902
+"HLAS PRO BRANKU","12/15","0",1,"11","24,3","8%","33%",903
+"HASIČI LIDEM","15/15","0",1,"14","30,7","27%","13%",904
+"PRO OBČANY","15/15","0",7,"8","43,3","53%","13%",905

@@ -1,12 +1,12 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"JAROSLAV KORBEL, NEZÁVISLÝ KANDIDÁT","1/9","42","0%","0%","1",0,801
-"HANA ŠIMÁNKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","58","100%","0%","0",0,802
-"VÁCLAV DUŠEK, NEZÁVISLÝ KANDIDÁT","1/9","58","0%","0%","1",0,803
-"PETR LŐFFELMANN, NEZÁVISLÝ KANDIDÁT","1/9","48","0%","0%","0",0,804
-"MICHAL JIŘINEC, NEZÁVISLÝ KANDIDÁT","1/9","38","0%","0%","1",0,805
-"ING. ARCH. TOMÁŠ STRAŇÁK, NEZÁVISLÝ KANDIDÁT","1/9","77","0%","100%","1",0,806
-"MIROSLAV CHALOUPKA, NEZÁVISLÝ KANDIDÁT","1/9","47","0%","0%","0",0,807
-"BLANKA VLČKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","54","100%","0%","1",0,808
-"JOSEF JIŘINEC, NEZÁVISLÝ KANDIDÁT","1/9","61","0%","0%","0",0,809
-"RŮŽENA HAASOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","30","100%","0%","1",0,810
-"BOHUSLAV BROŽ, NEZÁVISLÝ KANDIDÁT","1/9","44","0%","0%","1",0,811
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"JAROSLAV KORBEL, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","42","0%","0%",801
+"HANA ŠIMÁNKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","58","100%","0%",802
+"VÁCLAV DUŠEK, NEZÁVISLÝ KANDIDÁT","1/9","1",0,"0","58","0%","0%",803
+"PETR LŐFFELMANN, NEZÁVISLÝ KANDIDÁT","1/9","1",0,"0","48","0%","0%",804
+"MICHAL JIŘINEC, NEZÁVISLÝ KANDIDÁT","1/9","1",0,"0","38","0%","0%",805
+"ING. ARCH. TOMÁŠ STRAŇÁK, NEZÁVISLÝ KANDIDÁT","1/9","0",1,"0","77","0%","100%",806
+"MIROSLAV CHALOUPKA, NEZÁVISLÝ KANDIDÁT","1/9","1",0,"0","47","0%","0%",807
+"BLANKA VLČKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","1",0,"0","54","100%","0%",808
+"JOSEF JIŘINEC, NEZÁVISLÝ KANDIDÁT","1/9","1",0,"0","61","0%","0%",809
+"RŮŽENA HAASOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","30","100%","0%",810
+"BOHUSLAV BROŽ, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","44","0%","0%",811

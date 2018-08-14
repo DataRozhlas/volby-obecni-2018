@@ -1,4 +1,4 @@
-"StranaNr","Pořadí","Jméno","Věk","Povolání","Bydliště","Obhajuje","Minulá kandidatura","Změnil stranu"
-802,1,"STANISLAV BYDŽOVSKÝ",56,"vedoucí plaveckého areálu","Osice","Ano","STANISLAV BYDŽOVSKÝ, NEZÁVISLÝ KANDIDÁT",""
-801,1,"JIŘÍ HRUBEŠ",31,"restaurátor nábytku","Trávník","Ano","JIŘÍ HRUBEŠ, NEZÁVISLÝ KANDIDÁT",""
-803,1,"Ing. MARTIN TRIBULA",44,"ekonom zemědělské společnosti","Polizy","Ano","ING. MARTIN TRIBULA, NEZÁVISLÝ KANDIDÁT",""
+"StranaNr","Pořadí","Jméno","Věk","Povolání","Bydliště","Obhajuje","Příslušnost","Minulá kandidatura"
+801,1,"JIŘÍ HRUBEŠ",31,"restaurátor nábytku","Trávník","Ano","BEZPP","JIŘÍ HRUBEŠ, NEZÁVISLÝ KANDIDÁT"
+803,1,"Ing. MARTIN TRIBULA",44,"ekonom zemědělské společnosti","Polizy","Ano","BEZPP","ING. MARTIN TRIBULA, NEZÁVISLÝ KANDIDÁT"
+802,1,"STANISLAV BYDŽOVSKÝ",56,"vedoucí plaveckého areálu","Osice","Ano","BEZPP","STANISLAV BYDŽOVSKÝ, NEZÁVISLÝ KANDIDÁT"

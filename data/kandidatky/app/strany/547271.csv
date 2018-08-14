@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"OBČANSKÁ DEMOKRATICKÁ STRANA","15/15","53,1","47%","47%","2",0,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","62,9","73%","20%","2",0,7
-"ANO 2011","15/15","46,4","27%","40%","0",0,768
-"""SDRUŽENÍ OBČANŮ SUCHDOLA"" (SOS)","15/15","49,8","40%","87%","11",1,901
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"OBČANSKÁ DEMOKRATICKÁ STRANA","15/15","2",0,"6","53,1","47%","47%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","2",0,"8","62,9","73%","20%",7
+"ANO 2011","15/15","0",0,"0","46,4","27%","40%",768
+"""SDRUŽENÍ OBČANŮ SUCHDOLA"" (SOS)","15/15","11",1,"6","49,8","40%","87%",901

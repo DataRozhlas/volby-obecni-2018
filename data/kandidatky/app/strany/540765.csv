@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"VOLBA PRO MĚSTO","15/15","49,7","27%","53%","0",7,113
-"""SDRUŽENÍ NESTRANÍKŮ""","15/15","45,3","33%","40%","2",0,158
-"STAROSTOVÉ A NEZÁVISLÍ","15/15","52,1","40%","33%","7",1,166
-"SDRUŽENÍ PRO MĚSTO","15/15","53,2","20%","33%","0",4,427
-"KOALICE NEZÁVISLÝCH MĚSTEČKA POD SKALKOU","15/15","54","53%","60%","0",1,476
-"SPOLEČNĚ PRO MNÍŠEK - SDRUŽENÍ STRANY ZELENÝCH, KDU-ČSL A NEZÁVISLÝCH KANDIDÁTŮ","15/15","44,5","27%","67%","0",0,479
-"TOP 09 A NEZÁVISLÍ","15/15","36,6","53%","60%","0",4,480
-"ANO 2011","15/15","41,1","40%","27%","0",2,768
-"""MNÍŠEK - MĚSTO PRO RODINU""","15/15","36,7","73%","60%","0",0,901
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"VOLBA PRO MĚSTO","15/15","0",7,"8","49,7","27%","53%",113
+"""SDRUŽENÍ NESTRANÍKŮ""","15/15","2",0,"9","45,3","33%","40%",158
+"STAROSTOVÉ A NEZÁVISLÍ","15/15","0",11,"4","52,1","40%","33%",166
+"SDRUŽENÍ PRO MĚSTO","15/15","0",4,"11","53,2","20%","33%",427
+"KOALICE NEZÁVISLÝCH MĚSTEČKA POD SKALKOU","15/15","2",3,"4","54","53%","60%",476
+"SPOLEČNĚ PRO MNÍŠEK - SDRUŽENÍ STRANY ZELENÝCH, KDU-ČSL A NEZÁVISLÝCH KANDIDÁTŮ","15/15","0",0,"0","44,5","27%","67%",479
+"TOP 09 A NEZÁVISLÍ","15/15","0",5,"10","36,6","53%","60%",480
+"ANO 2011","15/15","0",2,"13","41,1","40%","27%",768
+"""MNÍŠEK - MĚSTO PRO RODINU""","15/15","0",0,"0","36,7","73%","60%",901

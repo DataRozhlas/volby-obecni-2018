@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"ZA ROZVOJ OBCE A REGIONU I.","15/15","43,6","13%","33%","14",0,901
-"""VÝBĚR Z HROZNŮ - POZDNÍ SBĚR.""","15/15","41,1","33%","13%","0",0,902
-"SNK SLAVNÍK","15/15","49,7","20%","20%","0",0,903
-"ZA ROZVOJ OBCE A REGIONU II.","15/15","41,1","47%","27%","0",0,904
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"ZA ROZVOJ OBCE A REGIONU I.","15/15","0",1,"14","43,6","13%","33%",901
+"""VÝBĚR Z HROZNŮ - POZDNÍ SBĚR.""","15/15","0",0,"0","41,1","33%","13%",902
+"SNK SLAVNÍK","15/15","0",0,"0","49,7","20%","20%",903
+"ZA ROZVOJ OBCE A REGIONU II.","15/15","0",6,"9","41,1","47%","27%",904

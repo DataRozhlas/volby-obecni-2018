@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KONZERVATIVNÍ STRANA","1/23","42","0%","100%","0",0,24
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ A MORAVANÉ","23/23","52,7","30%","52%","0",1,309
-"SDRUŽENÍ NESTRANÍKŮ - A CO BRNO?","23/23","48,2","35%","48%","0",1,463
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","23/23","67,6","43%","22%","1",0,47
-"OBČANSKÁ DEMOKRATICKÁ STRANA","23/23","45,6","22%","39%","6",0,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","23/23","44,5","26%","61%","7",0,7
-"STRANA SVOBODNÝCH OBČANŮ","16/23","39,6","50%","38%","0",2,714
-"TOP 09","23/23","42,7","22%","74%","3",0,721
-"ANO 2011","23/23","42,7","35%","52%","0",0,768
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KONZERVATIVNÍ STRANA","1/23","0",0,"0","42","0%","100%",24
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ A MORAVANÉ","23/23","0",12,"11","52,7","30%","52%",309
+"SDRUŽENÍ NESTRANÍKŮ - A CO BRNO?","23/23","0",11,"12","48,2","35%","48%",463
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","23/23","1",0,"9","67,6","43%","22%",47
+"OBČANSKÁ DEMOKRATICKÁ STRANA","23/23","6",0,"14","45,6","22%","39%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","23/23","7",0,"6","44,5","26%","61%",7
+"STRANA SVOBODNÝCH OBČANŮ","16/23","0",2,"14","39,6","50%","38%",714
+"TOP 09","23/23","3",0,"11","42,7","22%","74%",721
+"ANO 2011","23/23","0",0,"0","42,7","35%","52%",768

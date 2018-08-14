@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST","7/7","42,4","57%","29%","0",4,112
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","7/7","63,1","71%","0%","1",0,47
-"OBČANSKÁ DEMOKRATICKÁ STRANA","7/7","42,9","0%","43%","0",0,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","9/7","54,6","78%","33%","1",1,7
-"TOP 09","7/7","45,9","14%","43%","2",1,721
-"""ZA LEPŠÍ ŽIVOTNÍ PROSTŘEDÍ V DALOVICÍCH""","9/7","54,7","56%","44%","1",0,901
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST","7/7","0",4,"3","42,4","57%","29%",112
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","7/7","1",0,"4","63,1","71%","0%",47
+"OBČANSKÁ DEMOKRATICKÁ STRANA","7/7","0",0,"2","42,9","0%","43%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","9/7","1",1,"5","54,6","78%","33%",7
+"TOP 09","7/7","2",1,"2","45,9","14%","43%",721
+"""ZA LEPŠÍ ŽIVOTNÍ PROSTŘEDÍ V DALOVICÍCH""","9/7","0",5,"4","54,7","56%","44%",901

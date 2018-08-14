@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"PETR ŠVAGR","1/7","42","0%","0%","1",0,801
-"MIROSLAV ŠKACH","1/7","77","0%","0%","1",0,802
-"HANA SVOBODOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","32","100%","100%","1",0,803
-"JIŘÍ ŘEHOŘ","1/7","50","0%","0%","1",0,804
-"TOMÁŠ VŮCHA","1/7","47","0%","0%","1",0,805
-"DAVID ŘEHOŘ","1/7","24","0%","0%","1",0,806
-"LUBOŠ HRABEC","1/7","61","0%","0%","0",0,807
-"JAROSLAVA  KRÁLÍČKOVÁ","1/7","65","100%","0%","1",0,808
-"VEJVODA FRANTIŠEK","1/7","62","0%","0%","0",0,809
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"PETR ŠVAGR","1/7","1",0,"0","42","0%","0%",801
+"MIROSLAV ŠKACH","1/7","1",0,"0","77","0%","0%",802
+"HANA SVOBODOVÁ, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","32","100%","100%",803
+"JIŘÍ ŘEHOŘ","1/7","1",0,"0","50","0%","0%",804
+"TOMÁŠ VŮCHA","1/7","1",0,"0","47","0%","0%",805
+"DAVID ŘEHOŘ","1/7","0",0,"0","24","0%","0%",806
+"LUBOŠ HRABEC","1/7","1",0,"0","61","0%","0%",807
+"JAROSLAVA  KRÁLÍČKOVÁ","1/7","0",1,"0","65","100%","0%",808
+"VEJVODA FRANTIŠEK","1/7","0",1,"0","62","0%","0%",809

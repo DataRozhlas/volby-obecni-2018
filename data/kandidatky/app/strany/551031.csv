@@ -1,13 +1,13 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","35/35","40,4","37%","63%","3",0,1
-"SDRUŽENÍ OBČANŮ LESNÉ","35/35","47,6","37%","83%","0",2,1031
-"STAROSTOVÉ A NEZÁVISLÍ","35/35","37,2","46%","23%","0",5,166
-"""A CO BRNO?"" SPOLEČNĚ PRO BRNO - SEVER","35/35","46,5","26%","63%","4",19,463
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","35/35","53,6","43%","23%","2",2,47
-"STRANA ZELENÝCH","35/35","43,9","54%","80%","2",0,5
-"OBČANSKÁ DEMOKRATICKÁ STRANA","35/35","47,1","40%","46%","8",0,53
-"DĚLNICKÁ STRANA SOCIÁLNÍ SPRAVEDLNOSTI - POŘÁDEK A BEZPEČÍ V BRNĚ-SEVER","5/35","35,2","0%","20%","0",0,600
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","35/35","42,9","37%","46%","11",0,7
-"STRANA SVOBODNÝCH OBČANŮ","35/35","38","29%","46%","0",0,714
-"TOP 09","35/35","47","26%","31%","5",2,721
-"ANO 2011","35/35","45,6","37%","43%","0",2,768
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","35/35","3",0,"18","40,4","37%","63%",1
+"SDRUŽENÍ OBČANŮ LESNÉ","35/35","0",2,"33","47,6","37%","83%",1031
+"STAROSTOVÉ A NEZÁVISLÍ","35/35","0",5,"30","37,2","46%","23%",166
+"""A CO BRNO?"" SPOLEČNĚ PRO BRNO - SEVER","35/35","0",20,"15","46,5","26%","63%",463
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","35/35","2",2,"26","53,6","43%","23%",47
+"STRANA ZELENÝCH","35/35","2",0,"20","43,9","54%","80%",5
+"OBČANSKÁ DEMOKRATICKÁ STRANA","35/35","8",0,"22","47,1","40%","46%",53
+"DĚLNICKÁ STRANA SOCIÁLNÍ SPRAVEDLNOSTI - POŘÁDEK A BEZPEČÍ V BRNĚ-SEVER","5/35","0",0,"0","35,2","0%","20%",600
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","35/35","11",0,"19","42,9","37%","46%",7
+"STRANA SVOBODNÝCH OBČANŮ","35/35","0",0,"34","38","29%","46%",714
+"TOP 09","35/35","5",2,"24","47","26%","31%",721
+"ANO 2011","35/35","0",2,"33","45,6","37%","43%",768

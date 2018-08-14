@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","9/9","49,6","44%","0%","1",4,47
-"OBČANÉ","9/9","32,6","33%","11%","1",0,901
-"""SNK - SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ""","9/9","53,6","44%","11%","1",0,902
-"""VOLBY 2014""","9/9","48,1","0%","0%","2",0,903
-"NEZÁVISLÍ","9/9","48","22%","0%","1",0,904
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","9/9","1",4,"2","49,6","44%","0%",47
+"OBČANÉ","9/9","1",0,"5","32,6","33%","11%",901
+"""SNK - SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ""","9/9","0",6,"3","53,6","44%","11%",902
+"""VOLBY 2014""","9/9","0",8,"1","48,1","0%","0%",903
+"NEZÁVISLÍ","9/9","0",6,"3","48","22%","0%",904

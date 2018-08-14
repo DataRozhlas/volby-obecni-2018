@@ -1,7 +1,7 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","9/9","51,9","22%","44%","2",0,1
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","9/9","58,9","78%","22%","1",0,47
-"OBČANSKÁ DEMOKRATICKÁ STRANA","9/9","48,1","44%","44%","1",0,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","9/9","52,1","56%","11%","1",0,7
-"""SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ PRO ROZVOJ OBCE""","9/9","52,4","44%","33%","2",0,901
-"NEZÁVISLÍ PROBOŠTOV","9/9","44,6","33%","22%","0",3,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","9/9","2",0,"4","51,9","22%","44%",1
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","9/9","1",0,"4","58,9","78%","22%",47
+"OBČANSKÁ DEMOKRATICKÁ STRANA","9/9","1",0,"2","48,1","44%","44%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","9/9","1",0,"3","52,1","56%","11%",7
+"""SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ PRO ROZVOJ OBCE""","9/9","0",8,"1","52,4","44%","33%",901
+"NEZÁVISLÍ PROBOŠTOV","9/9","0",3,"6","44,6","33%","22%",902

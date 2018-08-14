@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","11/15","37,3","36%","36%","1",0,1
-"""SDRUŽENÍ NESTRANÍKŮ""","11/15","40,5","55%","18%","0",0,158
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","48,9","73%","0%","2",0,7
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ DIVIŠOVA A OKOLÍ","15/15","46,5","20%","33%","5",1,901
-"HASIČI PRO LIDI","15/15","45","33%","7%","0",5,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","11/15","1",0,"5","37,3","36%","36%",1
+"""SDRUŽENÍ NESTRANÍKŮ""","11/15","0",0,"0","40,5","55%","18%",158
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","2",0,"10","48,9","73%","0%",7
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ DIVIŠOVA A OKOLÍ","15/15","5",1,"3","46,5","20%","33%",901
+"HASIČI PRO LIDI","15/15","0",5,"10","45","33%","7%",902

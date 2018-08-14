@@ -1,6 +1,6 @@
 // JS soubory ve složce /styles/ se do výsledného článku zakompilují automaticky
 
-d3.csv("../data/kandidatky/app/obce/nazvyobci.csv").then(function(data){
+d3.csv("https://dev.datarozhlas.cz/volby-obecni-2018/data/kandidatky/app/obce/nazvyobci.csv").then(function(data){
 
 	var nazvyObci = data;
 
@@ -27,7 +27,7 @@ d3.csv("../data/kandidatky/app/obce/nazvyobci.csv").then(function(data){
 
 function ukazStrany(zvolenaObec, idObce) {
 
-	d3.csv("../data/kandidatky/app/strany/" + idObce + ".csv").then(function(data){
+	d3.csv("https://dev.datarozhlas.cz/volby-obecni-2018/data/kandidatky/app/strany/" + idObce + ".csv").then(function(data){
 
 		var strany = data;
 
@@ -68,7 +68,7 @@ function ukazStrany(zvolenaObec, idObce) {
 
 function ukazKandidaty(idObce, idStrany) {
 
-  d3.csv("../data/kandidatky/app/kandidati/" + idObce + ".csv").then(function(data){
+  d3.csv("https://dev.datarozhlas.cz/volby-obecni-2018/data/kandidatky/app/kandidati/" + idObce + ".csv").then(function(data){
 
     var kandidati = data;
 

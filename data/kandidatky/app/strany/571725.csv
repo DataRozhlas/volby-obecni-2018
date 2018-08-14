@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"FRANTIŠEK MICHÁLEK, NEZÁVISLÝ KANDIDÁT","1/7","67","0%","0%","0",0,801
-"FRANTIŠEK TRÁVNIČKA, NEZÁVISLÝ KANDIDÁT","1/7","54","0%","0%","1",0,802
-"ING. JAN FIBINGER, NEZÁVISLÝ KANDIDÁT","1/7","59","0%","100%","1",0,803
-"JIŘÍ PAULUS, NEZÁVISLÝ KANDIDÁT","1/7","45","0%","0%","1",0,804
-"JIŘINA VELEHRADSKÁ, NEZÁVISLÝ KANDIDÁT","1/7","45","100%","0%","1",0,805
-"ROMAN ČAPEK, NEZÁVISLÝ KANDIDÁT","1/7","50","0%","0%","0",0,806
-"VLADIMÍR ČAPEK, NEZÁVISLÝ KANDIDÁT","1/7","52","0%","0%","0",0,807
-"VLADIMÍR PETR, NEZÁVISLÝ KANDIDÁT","1/7","42","0%","0%","1",0,808
-"VLADIMÍR PETR, NEZÁVISLÝ KANDIDÁT","1/7","67","0%","0%","1",0,809
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"FRANTIŠEK MICHÁLEK, NEZÁVISLÝ KANDIDÁT","1/7","0",0,"0","67","0%","0%",801
+"FRANTIŠEK TRÁVNIČKA, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","54","0%","0%",802
+"ING. JAN FIBINGER, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","59","0%","100%",803
+"JIŘÍ PAULUS, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","45","0%","0%",804
+"JIŘINA VELEHRADSKÁ, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","45","100%","0%",805
+"ROMAN ČAPEK, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","50","0%","0%",806
+"VLADIMÍR ČAPEK, NEZÁVISLÝ KANDIDÁT","1/7","0",1,"0","52","0%","0%",807
+"VLADIMÍR PETR, NEZÁVISLÝ KANDIDÁT","1/7","0",2,"-1","42","0%","0%",808
+"VLADIMÍR PETR, NEZÁVISLÝ KANDIDÁT","1/7","0",2,"-1","67","0%","0%",809

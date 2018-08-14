@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","45,1","0%","60%","2",0,1
-"FAIR PLAY - HNPD","15/15","40,1","20%","0%","1",0,167
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","60,2","47%","13%","2",1,47
-"OBČANSKÁ DEMOKRATICKÁ STRANA","15/15","41,1","47%","40%","2",1,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","47,9","20%","53%","3",1,7
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ ""ROVNOST ŠANCÍ""","15/15","50,9","100%","60%","2",0,901
-"SNK - LEPŠÍ PODMÍNKY PRO ŽIVNOSTNÍKY A ŘEMESLNÍKY","15/15","46,1","0%","0%","2",2,902
-"""ZA ROZVOJ FULNECKA""","15/15","47,5","20%","33%","1",1,903
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ - ZA LEPŠÍ FULNECKO","15/15","46,2","20%","33%","0",0,904
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","2",0,"4","45,1","0%","60%",1
+"FAIR PLAY - HNPD","15/15","0",9,"6","40,1","20%","0%",167
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","2",1,"5","60,2","47%","13%",47
+"OBČANSKÁ DEMOKRATICKÁ STRANA","15/15","2",1,"7","41,1","47%","40%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","3",1,"6","47,9","20%","53%",7
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ ""ROVNOST ŠANCÍ""","15/15","2",0,"5","50,9","100%","60%",901
+"SNK - LEPŠÍ PODMÍNKY PRO ŽIVNOSTNÍKY A ŘEMESLNÍKY","15/15","0",4,"11","46,1","0%","0%",902
+"""ZA ROZVOJ FULNECKA""","15/15","0",8,"7","47,5","20%","33%",903
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ - ZA LEPŠÍ FULNECKO","15/15","0",6,"9","46,2","20%","33%",904

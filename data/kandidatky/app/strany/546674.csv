@@ -1,6 +1,6 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"OBČANSKÁ DEMOKRATICKÁ STRANA","5/15","48,6","40%","80%","2",0,53
-"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","49,4","20%","27%","8",5,7
-"LOMNICKÝ KLUB NEZÁVISLÝCH KANDIDÁTŮ","15/15","45,5","20%","27%","1",4,901
-"""HASIČI LOMNICE""","15/15","26,9","20%","0%","0",1,902
-"VOLBA PRO MĚSTO LOMNICE NAD LUŽNICÍ","15/15","47,4","47%","40%","0",2,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"OBČANSKÁ DEMOKRATICKÁ STRANA","5/15","2",0,"4","48,6","40%","80%",53
+"ČESKÁ STRANA SOCIÁLNĚ DEMOKRATICKÁ","15/15","8",5,"6","49,4","20%","27%",7
+"LOMNICKÝ KLUB NEZÁVISLÝCH KANDIDÁTŮ","15/15","0",10,"5","45,5","20%","27%",901
+"""HASIČI LOMNICE""","15/15","0",1,"14","26,9","20%","0%",902
+"VOLBA PRO MĚSTO LOMNICE NAD LUŽNICÍ","15/15","0",4,"11","47,4","47%","40%",903

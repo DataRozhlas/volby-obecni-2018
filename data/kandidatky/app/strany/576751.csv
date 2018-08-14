@@ -1,18 +1,18 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"VÁCLAV KOSINA, NEZÁVISLÝ KANDIDÁT","1/9","27","0%","0%","0",0,801
-"DANA KUČEROVÁ, NEZÁVISLÝ KANDIDÁT","1/9","43","100%","0%","0",0,802
-"EVA TLÁSKALOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","31","100%","0%","0",0,803
-"MICHAELA VAŇKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","31","100%","0%","0",0,804
-"MICHAL MORAVEC, NEZÁVISLÝ KANDIDÁT","1/9","31","0%","0%","0",0,805
-"MIROSLAVA ČERNÍKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","55","100%","0%","0",0,806
-"PETR TLÁSKAL, NEZÁVISLÝ KANDIDÁT","1/9","33","0%","0%","0",0,807
-"ZDENĚK BENDZO, NEZÁVISLÝ KANDIDÁT","1/9","59","0%","0%","0",0,808
-"IVANA LELKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","50","100%","0%","0",0,809
-"ING. TOMÁŠ SUK, NEZÁVISLÝ KANDIDÁT","1/9","37","0%","100%","0",0,810
-"VÁCLAV VANĚK, NEZÁVISLÝ KANDIDÁT","1/9","50","0%","0%","0",0,811
-"DAVID VALÁŠEK, NEZÁVISLÝ KANDIDÁT","1/9","33","0%","0%","0",0,812
-"HANA FRANCOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","40","100%","0%","0",0,813
-"MILAN HEJZLAR, NEZÁVISLÝ KANDIDÁT","1/9","50","0%","0%","0",0,814
-"RADEK HEJZLAR, NEZÁVISLÝ KANDIDÁT","1/9","37","0%","0%","0",0,815
-"EVA RATHOUSKÁ, NEZÁVISLÝ KANDIDÁT","1/9","52","100%","0%","0",0,816
-"VLADISLAV ČERNÍK, NEZÁVISLÝ KANDIDÁT","1/9","32","0%","0%","0",0,817
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"VÁCLAV KOSINA, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","27","0%","0%",801
+"DANA KUČEROVÁ, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","43","100%","0%",802
+"EVA TLÁSKALOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","31","100%","0%",803
+"MICHAELA VAŇKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","31","100%","0%",804
+"MICHAL MORAVEC, NEZÁVISLÝ KANDIDÁT","1/9","0",1,"0","31","0%","0%",805
+"MIROSLAVA ČERNÍKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","0",1,"0","55","100%","0%",806
+"PETR TLÁSKAL, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","33","0%","0%",807
+"ZDENĚK BENDZO, NEZÁVISLÝ KANDIDÁT","1/9","0",1,"0","59","0%","0%",808
+"IVANA LELKOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","0",1,"0","50","100%","0%",809
+"ING. TOMÁŠ SUK, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","37","0%","100%",810
+"VÁCLAV VANĚK, NEZÁVISLÝ KANDIDÁT","1/9","0",1,"0","50","0%","0%",811
+"DAVID VALÁŠEK, NEZÁVISLÝ KANDIDÁT","1/9","0",1,"0","33","0%","0%",812
+"HANA FRANCOVÁ, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","40","100%","0%",813
+"MILAN HEJZLAR, NEZÁVISLÝ KANDIDÁT","1/9","0",1,"0","50","0%","0%",814
+"RADEK HEJZLAR, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","37","0%","0%",815
+"EVA RATHOUSKÁ, NEZÁVISLÝ KANDIDÁT","1/9","0",1,"0","52","100%","0%",816
+"VLADISLAV ČERNÍK, NEZÁVISLÝ KANDIDÁT","1/9","0",0,"0","32","0%","0%",817

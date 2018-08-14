@@ -1,4 +1,4 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""NEZÁVISLÝ KANDIDÁT FILIP JANDUS""","1/7","20","0%","0%","0",0,801
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ-ZA NÁŠ OSOV","8/7","47,8","38%","12%","7",0,901
-"""OBEC OSOV""","8/7","45,4","25%","12%","0",0,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""NEZÁVISLÝ KANDIDÁT FILIP JANDUS""","1/7","0",0,"0","20","0%","0%",801
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ-ZA NÁŠ OSOV","8/7","0",0,"0","47,8","38%","12%",901
+"""OBEC OSOV""","8/7","7",0,"3","45,4","25%","12%",902

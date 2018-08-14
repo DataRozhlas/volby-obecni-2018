@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"LUKÁŠ TESAŘ","1/7","28","0%","0%","1",0,801
-"BC. VERONIKA MATĚJKOVÁ","1/7","27","100%","100%","1",0,802
-"ROMAN KAČENKA","1/7","20","0%","0%","0",0,803
-"STANISLAV JÁNSKÝ","1/7","21","0%","0%","0",0,804
-"FRANTIŠEK ONDRÁK","1/7","41","0%","0%","1",0,805
-"MARIE PLAČKOVÁ","1/7","35","100%","0%","1",0,806
-"MGR. MARTINA CHALUPOVÁ","1/7","31","100%","100%","1",0,807
-"KAREL KOVAŘÍK","1/7","34","0%","0%","0",0,808
-"JIŘÍ LEITGEB","1/7","32","0%","0%","0",0,809
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"LUKÁŠ TESAŘ","1/7","0",0,"0","28","0%","0%",801
+"BC. VERONIKA MATĚJKOVÁ","1/7","0",0,"0","27","100%","100%",802
+"ROMAN KAČENKA","1/7","0",0,"0","20","0%","0%",803
+"STANISLAV JÁNSKÝ","1/7","0",0,"0","21","0%","0%",804
+"FRANTIŠEK ONDRÁK","1/7","0",1,"0","41","0%","0%",805
+"MARIE PLAČKOVÁ","1/7","0",1,"0","35","100%","0%",806
+"MGR. MARTINA CHALUPOVÁ","1/7","0",1,"0","31","100%","100%",807
+"KAREL KOVAŘÍK","1/7","0",0,"0","34","0%","0%",808
+"JIŘÍ LEITGEB","1/7","0",0,"0","32","0%","0%",809

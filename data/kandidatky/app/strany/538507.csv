@@ -1,4 +1,4 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"NÁŠ MOCHOV","11/11","45,4","27%","18%","5",0,901
-"""VOLBA PRO MOCHOV""","11/11","40,8","55%","36%","6",0,902
-"""MOCHOV VŠEM""","11/11","40,3","18%","45%","0",0,903
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"NÁŠ MOCHOV","11/11","0",6,"5","45,4","27%","18%",901
+"""VOLBA PRO MOCHOV""","11/11","0",7,"4","40,8","55%","36%",902
+"""MOCHOV VŠEM""","11/11","0",0,"0","40,3","18%","45%",903

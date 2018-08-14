@@ -1,8 +1,8 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","50,1","20%","33%","5",0,1
-"NESTRANÍCI","15/15","48,4","20%","27%","1",0,181
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","61,1","27%","13%","1",1,47
-"SDRUŽENÍ NESTRANÍKŮ","15/15","39,5","27%","40%","3",3,470
-"OBČANSKÁ DEMOKRATICKÁ STRANA","15/15","49","27%","40%","3",0,53
-"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ","15/15","43,7","13%","33%","2",4,901
-"INICIATIVA MLADÝCH","15/15","32,1","13%","53%","0",0,902
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"KŘESŤANSKÁ A DEMOKRATICKÁ UNIE - ČESKOSLOVENSKÁ STRANA LIDOVÁ","15/15","5",0,"0","50,1","20%","33%",1
+"NESTRANÍCI","15/15","1",0,"3","48,4","20%","27%",181
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","15/15","1",1,"4","61,1","27%","13%",47
+"SDRUŽENÍ NESTRANÍKŮ","15/15","3",0,"5","39,5","27%","40%",470
+"OBČANSKÁ DEMOKRATICKÁ STRANA","15/15","3",0,"4","49","27%","40%",53
+"SDRUŽENÍ NEZÁVISLÝCH KANDIDÁTŮ","15/15","0",4,"11","43,7","13%","33%",901
+"INICIATIVA MLADÝCH","15/15","2",0,"2","32,1","13%","53%",902

@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"""SNK-I""","9/7","41,1","11%","0%","0",0,901
-"""SNK2014""","9/7","54,9","33%","56%","1",0,902
-"""PRO LEDCE""","9/7","41,1","100%","22%","2",0,903
-"LEDCE 2014","7/7","46,3","0%","29%","4",0,904
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"""SNK-I""","9/7","0",6,"3","41,1","11%","0%",901
+"""SNK2014""","9/7","0",5,"4","54,9","33%","56%",902
+"""PRO LEDCE""","9/7","0",3,"6","41,1","100%","22%",903
+"LEDCE 2014","7/7","0",7,"0","46,3","0%","29%",904

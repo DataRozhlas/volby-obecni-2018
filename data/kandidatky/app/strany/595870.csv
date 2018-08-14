@@ -1,10 +1,10 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"VLASTIMIL DOLEŽAL","1/7","40","0%","0%","1",0,801
-"RADEK HUDEC","1/7","42","0%","0%","1",0,802
-"ING. PAVEL MUŽÁTKO","1/7","26","0%","100%","1",0,803
-"MIROSLAV POUL","1/7","46","0%","0%","0",0,804
-"ALENA SOBOTKOVÁ","1/7","22","100%","0%","1",0,805
-"BC. IVANA STAŇKOVÁ","1/7","37","100%","100%","1",0,806
-"PETR ŠPIČKA","1/7","34","0%","0%","1",0,807
-"LUKÁŠ SOBOTKA","1/7","23","0%","0%","0",0,808
-"PETR STANĚK","1/7","38","0%","0%","1",0,809
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"VLASTIMIL DOLEŽAL","1/7","0",1,"0","40","0%","0%",801
+"RADEK HUDEC","1/7","0",1,"0","42","0%","0%",802
+"ING. PAVEL MUŽÁTKO","1/7","0",1,"0","26","0%","100%",803
+"MIROSLAV POUL","1/7","0",0,"0","46","0%","0%",804
+"ALENA SOBOTKOVÁ","1/7","0",0,"0","22","100%","0%",805
+"BC. IVANA STAŇKOVÁ","1/7","0",0,"0","37","100%","100%",806
+"PETR ŠPIČKA","1/7","0",1,"0","34","0%","0%",807
+"LUKÁŠ SOBOTKA","1/7","0",0,"0","23","0%","0%",808
+"PETR STANĚK","1/7","0",0,"0","38","0%","0%",809

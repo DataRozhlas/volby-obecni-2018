@@ -1,5 +1,5 @@
-"Strana","Počet kandidátů","Průměrný věk","Podíl žen","Akademický titul","Mandát obhajuje","Změna strany","StranaNr"
-"SNK EVROPŠTÍ DEMOKRATÉ","9/9","44,9","44%","22%","5",1,129
-"KOMUNISTICKÁ STRANA ČECH A MORAVY","8/9","55,1","62%","0%","2",0,47
-"""OMMO - HLAS PRO OBČANA""","9/9","32,8","67%","22%","0",0,734
-"PĚTKA - PRO OBEC","9/9","46","33%","11%","2",2,901
+"Strana","Počet kandidátů","Mandát obhajuje","Změna strany","Nováčci","Průměrný věk","Podíl žen","Akademický titul","StranaNr"
+"SNK EVROPŠTÍ DEMOKRATÉ","9/9","5",1,"2","44,9","44%","22%",129
+"KOMUNISTICKÁ STRANA ČECH A MORAVY","8/9","2",0,"3","55,1","62%","0%",47
+"""OMMO - HLAS PRO OBČANA""","9/9","0",0,"0","32,8","67%","22%",734
+"PĚTKA - PRO OBEC","9/9","0",4,"5","46","33%","11%",901
