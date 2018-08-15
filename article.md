@@ -1,5 +1,5 @@
 title: "XXX"
-perex: "XXX.X"
+perex: "XXX"
 published: "21. dubna 2018"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
