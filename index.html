@@ -274,13 +274,13 @@
 </div>
 </div>
 </div><script>
-d3.csv("https://dev.datarozhlas.cz/volby-obecni-2018/data/kandidatky/app/obce/nazvyobci.csv").then(function(data){var nazvyObci=data;var seznamObci=nazvyObci.map(function(d){return d['NAZEVFULL'];});autocomplete(document.getElementById("vyberObce"),seznamObci);$("input").on("change",function(){setTimeout(function(){var zvolenaObec=document.getElementById("vyberObce").value;var index=seznamObci.indexOf(zvolenaObec);var idObce=nazvyObci[index]['KODZASTUP'];ukazStrany(zvolenaObec,idObce);},250);});});function ukazStrany(zvolenaObec,idObce){d3.csv("https://dev.datarozhlas.cz/volby-obecni-2018/data/kandidatky/app/strany/"+idObce+".csv").then(function(data){var strany=data;var idStran=strany.map(function(d){return d['StranaNr'];});var stranyBezId=strany.map(function(d){delete(d['StranaNr'])
+d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/obce/nazvyobci.csv").then(function(data){var nazvyObci=data;var seznamObci=nazvyObci.map(function(d){return d['NAZEVFULL'];});autocomplete(document.getElementById("vyberObce"),seznamObci);$("input").on("change",function(){setTimeout(function(){var zvolenaObec=document.getElementById("vyberObce").value;var index=seznamObci.indexOf(zvolenaObec);var idObce=nazvyObci[index]['KODZASTUP'];ukazStrany(zvolenaObec,idObce);},250);});});function ukazStrany(zvolenaObec,idObce){d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/strany/"+idObce+".csv").then(function(data){var strany=data;var idStran=strany.map(function(d){return d['StranaNr'];});var stranyBezId=strany.map(function(d){delete(d['StranaNr'])
 return(d);});var html='<h3>Kandidující strany</h3>'
 html+='(kliknutím na název strany zobrazíte kandidáty)'
 html+='<table id="tabulkaStran" class="display" style="width:100%"></table>'
 document.getElementById("strany").innerHTML=html;document.getElementById("kandidati").innerHTML='<div></div>';poskladejTabulkuStran(stranyBezId,idStran,idObce)
 $(function(){$('#tabulkaStran').DataTable({"order":[[0,"asc"]],"responsive":true,"ordering":true,"paging":false,"bInfo":false,"language":{"url":"https://interaktivni.rozhlas.cz/tools/datatables/Czech.json"},});});})}
-function ukazKandidaty(idObce,idStrany){d3.csv("https://dev.datarozhlas.cz/volby-obecni-2018/data/kandidatky/app/kandidati/"+idObce+".csv").then(function(data){var kandidati=data;var kandidatiBezId=kandidati.map(function(d){if(d['StranaNr']==idStrany){delete(d['StranaNr'])
+function ukazKandidaty(idObce,idStrany){d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/kandidati/"+idObce+".csv").then(function(data){var kandidati=data;var kandidatiBezId=kandidati.map(function(d){if(d['StranaNr']==idStrany){delete(d['StranaNr'])
 delete(d['PREB'])
 return(d);};});kandidatiBezId=kandidatiBezId.filter(function(d){return d!=undefined;});var html='<h3>Kandidáti</h3>'
 html+='<table id="tabulkaKandidatu" class="display" style="width:100%"></table>'
