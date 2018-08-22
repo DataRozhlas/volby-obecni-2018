@@ -41,7 +41,6 @@ function ukazStrany(zvolenaObec, idObce) {
     });
 
 		var html = '<h3>Kandidující strany</h3>'
-    html += '(kliknutím na název strany zobrazíte kandidáty)'
 		html += '<table id="tabulkaStran" class="display" style="width:100%"></table>'
 
 		document.getElementById("strany").innerHTML = html;
@@ -58,7 +57,7 @@ function ukazStrany(zvolenaObec, idObce) {
           "bInfo": false,
           "language": {
               "url": "https://interaktivni.rozhlas.cz/tools/datatables/Czech.json"
-          },
+          }
       });
     });
 
@@ -66,7 +65,7 @@ function ukazStrany(zvolenaObec, idObce) {
 
 }
 
-function ukazKandidaty(idObce, idStrany) {
+function ukazKandidaty(idObce, idStrany, nazevStrany) {
 
   d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/kandidati/" + idObce + ".csv").then(function(data){
 
@@ -75,7 +74,6 @@ function ukazKandidaty(idObce, idStrany) {
     var kandidatiBezId = kandidati.map(function(d) {
       if (d['StranaNr'] == idStrany) {
         delete(d['StranaNr'])
-        delete(d['PREB'])
         return (d);
       };
     });
@@ -84,12 +82,14 @@ function ukazKandidaty(idObce, idStrany) {
       return d != undefined;
     });
 
-    var html = '<h3>Kandidáti</h3>'
+    var html = '<div id = "zpetStrany"><button type = "button" onclick = "zpetStrany()">Zpět na výběr strany ↑</button></div>'
+    html += '<h3>Kandidáti</h3>'
+    html += '<h3 style = "font-weight: normal">' + nazevStrany + '</h3>'
     html += '<table id="tabulkaKandidatu" class="display" style="width:100%"></table>'
 
     document.getElementById("kandidati").innerHTML = html;
 
-    poskladejTabulkuKandidatu(kandidatiBezId)
+    poskladejTabulkuKandidatu(kandidatiBezId, nazevStrany);
 
     $(function() {
       $('#tabulkaKandidatu').DataTable({
@@ -104,7 +104,20 @@ function ukazKandidaty(idObce, idStrany) {
       });
     });
 
+    document.getElementById("zpetStrany").scrollIntoView();
+    window.scrollBy(0, -50);
+
   })
+
+}
+
+function zpetStrany() {
+
+  document.getElementById("obec").scrollIntoView();
+  window.scrollBy(0, -50);
+
+  document.getElementById("kandidati").innerHTML = '';
+  document.getElementById("zpetStrany").innerHTML = '';
 
 }
 
@@ -213,7 +226,8 @@ function poskladejTabulkuStran(seznamStran, idStran, idObce) {
     var row$ = $('<tr/>');
     for (var colIndex = 0; colIndex < columns.length; colIndex++) {
       var cellValue = seznamStran[i][columns[colIndex]];
-      if (colIndex == 0) cellValue = '<p class="stranaKlik" onclick="ukazKandidaty(' + idObce + ', ' + idStran[i] + ')"><u>' + cellValue + '</u></p>';
+      var nazevStrany = '\'' + seznamStran[i]['Strana'] + '\'';
+      if (colIndex == 0) cellValue = cellValue + '<p class="stranaKlik" onclick="ukazKandidaty(' + idObce + ', ' + idStran[i] + ', ' + nazevStrany + ')"><u>kandidáti</u></p>';
       if (cellValue == null) cellValue = "";
       row$.append($('<td/>').html(cellValue));
     }
@@ -245,12 +259,16 @@ function poskladejHlavickuStran(seznamStran) {
   return columnSet;
 }
 
-function poskladejTabulkuKandidatu(seznamKandidatu) {
+function poskladejTabulkuKandidatu(seznamKandidatu, nazevStrany) {
   var columns = poskladejHlavickuKandidatu(seznamKandidatu);
 
   $('#tabulkaKandidatu').append('<tbody>');
   for (var i = 0; i < seznamKandidatu.length; i++) {
-    var row$ = $('<tr>');
+    if ((seznamKandidatu[i]['Minulá kandidatura'] != nazevStrany) && (seznamKandidatu[i]['Minulá kandidatura'] != '')) {
+      var row$ = $('<tr id = "prebehlik">');
+    } else {
+      var row$ = $('<tr>');
+    }
     for (var colIndex = 0; colIndex < columns.length; colIndex++) {
       var cellValue = seznamKandidatu[i][columns[colIndex]];
       if (cellValue == null) cellValue = "";
@@ -283,4 +301,3 @@ function poskladejHlavickuKandidatu(seznamKandidatu) {
 
   return columnSet;
 }
-

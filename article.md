@@ -15,11 +15,11 @@ options: [] #wide, noheader (, nopic)
 
 <div id="obec">
 
-<h3>Vyberte obec</h3>
+<h3>Obec</h3>
 
 <form autocomplete="off" action="/action_page.php">
   <div class="autocomplete" style="width:300px;">
-    <input id="vyberObce" name="vyberObce" type="text" placeholder="Želechovice nad Dřevnicí (Zlín)">
+    <input id="vyberObce" name="vyberObce" type="text" placeholder="Vyberte obec">
   </div>
 </form>
 
