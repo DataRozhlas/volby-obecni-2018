@@ -89,6 +89,7 @@ input[type=submit] {
   margin-bottom: 0;
 }
 
+/*
 #prebehlik {
   background-color: #fee8c8;
 }
@@ -96,6 +97,7 @@ input[type=submit] {
 #prebehlik td:first-child {
   background-color: #fee8c8 !important;
 }
+*/
 
 button {
   background-color: #2171b5; /* Green */

@@ -142,4 +142,3 @@ propojeniRoku <- function() {
             fileEncoding = 'UTF-8')
 
 }
-
