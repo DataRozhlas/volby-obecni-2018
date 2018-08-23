@@ -41,6 +41,14 @@ V podzimních komunálních volbách kandiduje 216 520 kandidátů z 403 stran, 
 
 Víc než polovina z nich – 111 tisíc – kandiduje za lokální strany a hnutí. Mezi celostátními politickými stranami postaví nejvíc kandidátů KDU-ČSL (15,9 tisíce), KSČM (15,3 tisíce) a ČSSD (13,5 tisíce). Je to poprvé v rámci samostatné České republiky, kdy komunisté nebudou nejpočetnější.
 
+<left>
+	<h3>Čtěte také</h3>
+	<ul>
+		<li><a href="https://www.irozhlas.cz/volby/komunalni-volby-2018" target="_blank">Speciál ke komunálním volbám</a></li>
+		<li><a href="https://www.irozhlas.cz/volby/senatni-volby-2018" target="_blank">Speciál k senátním volbám</a></li>
+	</ul>
+</left>
+
 Všem třem zmíněným stranám nicméně proti minulým volbám kandidátů podstatně ubylo: křesťanští demokraté přišli o 11 procent, komunisti o 20 procent a sociální demokrati o 27 procent kandidátů. Ještě hůř je na tom TOP 09, která nasadí o 54 procent lidí méně než minule – a to včetně koalic.
 
 Naopak polepšili si Starostové a nezávislí, ti vyrostli o 21 procent, a taky piráti, kterých bude letos oproti minulým volbám trojnásobně. Nicméně největším skokanem je hnutí SPD Tomia Okamury, které před čtyřmi lety nekandidovalo a letos postaví 4,5 tisíce lidí.
