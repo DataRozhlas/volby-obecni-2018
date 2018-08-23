@@ -11,6 +11,8 @@ options: [] #wide, noheader (, nopic)
 
 _U obhajoby mandátu nebo kandidatury za jinou stranu než minule jsme nejprve museli určit, zda jde na minulých a letošních kandidátkách o stejnou osobu. Kandidáty jsme spojovali podle shodného jména, příjmení, o čtyři roky vyššího věku a kandidatury do stejného zastupitelstva. Pokud se tedy například kandidátka vdala a změnila si jméno, nebo jen kandiduje do jiného zastupitelstva než minule, nespojíme si ji._
 
+_Sloupec_ minulá kandidatura _znamená, že kandidát nastupuje za hnutí s jiným názvem než v minulých volbách. Neznamená tedy automaticky přestup do jiné strany._
+
 _U Prahy 9 a obce Lišov, které mají volební obvody, je pořadí kandidáta ve formátu {obvod}/{pořadí na kandidátce}._
 
 <wide>
