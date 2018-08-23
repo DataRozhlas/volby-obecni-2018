@@ -23,7 +23,7 @@ _U Prahy 9 a obce Lišov, které mají volební obvody, je pořadí kandidáta v
 
 <form autocomplete="off" action="/action_page.php">
   <div class="autocomplete" style="width:300px;">
-    <input id="vyberObce" name="vyberObce" type="text" placeholder="Vyberte obec">
+    <input id="vyberObce" name="vyberObce" type="text" placeholder="Napište jméno obce">
   </div>
 </form>
 
