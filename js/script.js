@@ -8,9 +8,11 @@ d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/obce/nazv
 
   $('#vyberObce').autocomplete({
     delay: 500,
-    source: seznamObci,
+    source: seznamObci.sort(),
     select: function(e) {
+      document.getElementById("strany").innerHTML = 'Načítám data...'
       setTimeout(function() {
+        document.getElementById("strany").innerHTML = 'Načítám data...'
         var zvolenaObec = document.getElementById("vyberObce").value;
         var index = seznamObci.indexOf(zvolenaObec);
         var idObce = nazvyObci[index]['KODZASTUP'];
@@ -21,6 +23,7 @@ d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/obce/nazv
 
 	$('#vyberObce').on('change', function () {
 		setTimeout(function() {
+      document.getElementById("strany").innerHTML = 'Načítám data...'
 			var zvolenaObec = document.getElementById("vyberObce").value;
 			var index = seznamObci.indexOf(zvolenaObec);
 			var idObce = nazvyObci[index]['KODZASTUP'];
@@ -64,6 +67,8 @@ function ukazStrany(zvolenaObec, idObce) {
 };
 
 function ukazKandidaty(idObce, idStrany, nazevStrany) {
+  document.getElementById("kandidati").innerHTML = 'Načítám data...'
+
   d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/kandidati/" + idObce + ".csv").then(function(data){
   var kandidati = data;
 

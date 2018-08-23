@@ -26,6 +26,8 @@ body {
   display: inline-block;
 }
 
+.ui-autocomplete { height: 200px; overflow-y: scroll; overflow-x: hidden;}
+
 input {
   border: 1px solid transparent;
   background-color: #deebf7;
