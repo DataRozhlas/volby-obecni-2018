@@ -16,6 +16,10 @@ body {
   font: 16px Arial;
 }
 
+.ui-menu-item-wrapper {
+  font:  16px "Noticia Text", serif;
+}
+
 .autocomplete {
   /*the container must be positioned relative:*/
   position: relative;
