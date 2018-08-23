@@ -6,7 +6,7 @@ d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/obce/nazv
     if(a.NAZEVFULL > b.NAZEVFULL) return 1;
     return 0;
   });
-  
+
 	var seznamObci = nazvyObci.map(function(d) {
 		return d['NAZEVFULL'];
 	});
@@ -14,6 +14,7 @@ d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/obce/nazv
   $('#vyberObce').autocomplete({
     delay: 500,
     source: seznamObci,
+    minLength: 4,
     select: function(e) {
       document.getElementById("strany").innerHTML = 'Načítám data...'
       setTimeout(function() {

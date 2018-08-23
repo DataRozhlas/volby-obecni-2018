@@ -164,7 +164,7 @@ kandidatkovaAplikace <- function () {
   
   for (i in unique(tab_strany$ID)) {
     
-    x_obec_strany <- tab_strany[tab_strany$ID == i, 2:9] 
+    x_obec_strany <- tab_strany[tab_strany$ID == i, c(2:4, 6:9)] 
     write.csv(x_obec_strany, paste0('../data/kandidatky/app/strany/', i, '.csv'), row.names = F, fileEncoding = 'UTF-8')    
     print(i)
     
