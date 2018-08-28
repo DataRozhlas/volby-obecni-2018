@@ -31,6 +31,8 @@ _U Prahy 9 a obce Lišov, které mají volební obvody, je pořadí kandidáta v
 </div>
 </wide>
 
+_Zdroj dat: [volby.cz](https://volby.cz/pls/kv2018/kv?xjazyk=CZ&xid=1)_
+
 V podzimních komunálních volbách kandiduje 216 520 kandidátů z 403 stran, hnutí a koalic. Je to nejméně od roku 2006, téměř o desetinu méně než před čtyřmi lety.
 
 Víc než polovina z nich – 111 tisíc – kandiduje za lokální strany a hnutí. Mezi celostátními politickými stranami postaví nejvíc kandidátů KDU-ČSL (15,9 tisíce), KSČM (15,3 tisíce) a ČSSD (13,5 tisíce). Je to poprvé v rámci samostatné České republiky, kdy komunisté nebudou nejpočetnější.
