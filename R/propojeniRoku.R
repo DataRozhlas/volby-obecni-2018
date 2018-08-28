@@ -140,5 +140,6 @@ propojeniRoku <- function() {
 
   write.csv(df, '../data/kandidatky/kandidati_94_18.csv', row.names = F, 
             fileEncoding = 'UTF-8')
-
 }
+
+tab_kandidati

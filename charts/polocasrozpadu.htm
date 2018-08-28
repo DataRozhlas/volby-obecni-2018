@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Highcharts Example</title>
+
+		<style type="text/css">
+
+		</style>
+	</head>
+	<body>
+
+<wide><div style="max-width: 100%" id="polocasrozpadu"></div></wide>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+
+<script type="text/javascript">
+
+var colors = ['black', 'gray', '#FFC900', '#FF0000', '#FF8E00', '#0065AB', '#2B2C5F', '#00C9F1', 'brown', '#755B7B', 'black']
+
+var dataPR = [
+  [216500,215234,213845,212318,210639,208790,206755,204515,202048,199330,196336,193037,189403,185401,180993,176139,170801,164931,158486,151426,143701,135253,126033,115967,104996],
+  [111198,110718,110190,109608,108969,108266,107492,106640,105702,104669,103532,102280,100902,99383,97709,95864,93829,91585,89109,86381,83378,80075,76442,72449,68066,63259,57990,52238,'NA','NA','NA','NA','NA','NA','NA'],
+  [15909,15820,15723,15615,15497,15367,15223,15065,14891,14699,14488,14254,13997,13713,13400,13055,12677,12261,11802,11299,10749,10147,9489,8768,7981,7124,'NA','NA','NA','NA','NA','NA','NA','NA','NA'],
+  [15287,15031,14749,14439,14099,13725,13313,12859,12360,11810,11204,10535,9799,8987,8094,7114,'NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA'],
+  [13500,13396,13281,13155,13017,12864,12697,12512,12308,12084,11837,11564,11264,10933,10569,10168,9726,9242,8712,8130,7497,6804,6053,'NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA'],
+  [12877,12793,12700,12598,12485,12362,12225,12075,11910,11728,11527,11306,11063,10796,10503,10180,9825,9435,9008,8541,8031,7475,6868,6209,'NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA'],
+  [8577,8529,8476,8418,8355,8284,8207,8122,8029,7926,7812,7687,7549,7397,7230,7045,6842,6617,6371,6099,5801,5476,5121,4733,4311,3850,'NA','NA','NA','NA','NA','NA','NA','NA','NA'],
+  [6884,6853,6818,6780,6738,6692,6641,6585,6523,6455,6381,6298,6208,6108,5998,5877,5744,5598,5437,5260,5064,4850,4614,4356,4073,3762,3423,'NA','NA','NA','NA','NA','NA','NA','NA'],
+  [4548,4519,4487,4452,4413,4371,4324,4272,4216,4153,4084,4008,3924,3832,3731,3619,3497,3362,3212,3050,2873,2678,2463,2228,'NA','NA','NA','NA','NA','NA','NA','NA','NA','NA','NA'],
+  [3649,3633,3616,3596,3575,3552,3526,3498,3467,3432,3394,3352,3306,3255,3199,3138,3070,2995,2913,2823,2724,2615,2496,2365,2221,2065,1895,1709,'NA','NA','NA','NA','NA','NA','NA'],
+  [2959,2953,2946,2939,2931,2922,2913,2902,2891,2878,2864,2848,2831,2812,2791,2768,2742,2714,2683,2648,2610,2567,2521,2469,2413,2350,2282,2207,2127,2040,1944,1840,1727,1604,1472]
+]
+
+var stranyPR = ["celkem", "SNK", "KDU-ČSL", "KSČM", "ČSSD", "ODS", "ANO 2011", "STAN", "SPD", "TOP 09", "Piráti"];
+
+Highcharts.chart('polocasrozpadu', {
+    chart: {
+        type: 'column'
+    },
+    title: {
+        text: '„Poločas rozpadu“ stran'
+    },
+    subtitle: {
+        text: 'model, ve kterém se počet kandidátů mění pouze úmrtím'
+    },
+    xAxis: {
+        categories: [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035, 2036, 2037, 2038, 2039, 2040, 2041, 2042, 2043, 2044, 2045, 2046, 2047, 2048, 2049, 2050, 2051, 2052]
+    },
+    yAxis: {
+        title: {
+            text: 'kandidáti, navržení stranou'
+        },
+        labels: {
+            format: '{value}'
+        }
+    },
+    tooltip: {
+        pointFormat: '{point.series.name}: <b>{point.y}</b> kandidátů<br/>',
+        shared: true
+    },
+    exporting: {
+        enabled: false
+    },
+    credits: {
+        href: 'https://volby.cz/',
+        text: 'Zdroj: ČSÚ'
+    },
+    series: [{
+        name: stranyPR[0],
+        data: dataPR[0],
+        color: colors[0],
+        visible: false
+    }, {
+        name: stranyPR[1],
+        data: dataPR[1],
+        color: colors[1],
+        visible: false
+    }, {
+        name: stranyPR[2],
+        data: dataPR[2],
+        color: colors[2]
+    }, {
+        name: stranyPR[3],
+        data: dataPR[3],
+        color: colors[3]
+    }, {
+        name: stranyPR[4],
+        data: dataPR[4],
+        color: colors[4],
+        visible: false
+    }, {
+        name: stranyPR[5],
+        data: dataPR[5],
+        color: colors[5],
+        visible: false
+    }, {
+        name: stranyPR[6],
+        data: dataPR[6],
+        color: colors[6],
+        visible: false
+    }, {
+        name: stranyPR[7],
+        data: dataPR[7],
+        color: colors[7],
+        visible: false
+    }, {
+        name: stranyPR[8],
+        data: dataPR[8],
+        color: colors[8],
+        visible: false
+    }, {
+        name: stranyPR[9],
+        data: dataPR[9],
+        color: colors[9],
+        visible: false
+    }, {
+        name: stranyPR[10],
+        data: dataPR[10],
+        color: colors[10],
+        visible: false
+    }]
+});
+
+		</script>
+	</body>
+</html>
+

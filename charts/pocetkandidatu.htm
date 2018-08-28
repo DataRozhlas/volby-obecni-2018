@@ -1,0 +1,223 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Highcharts Example</title>
+
+		<style type="text/css">
+
+		</style>
+	</head>
+	<body>
+
+<wide><div style="max-width: 100%" id="pocetkandidatu"></div></wide>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+
+<script type="text/javascript">
+
+var colors = ['black', 'gray', '#FFC900', '#FF0000', '#FF8E00', '#0065AB', '#2B2C5F', '#00C9F1', 'brown', '#755B7B', '#008023', '#FFC800', 'black', '#00B0F1', '#006852']
+
+var dataPK = [
+  [159479,180768,192914,202014,226961,233877,216500],
+  [55900,69797,72150,85577,96866,108756,111207],
+  [21172,22434,22372,21778,18408,17935,15916],
+  [22246,23226,24859,23085,20839,19057,15292],
+  [8330,16894,19298,18737,19104,18429,13501],
+  [19048,18114,18669,21478,20672,13679,12877],
+  ['NA','NA','NA','NA','NA',8744,8577],
+  ['NA','NA','NA',46,5085,5674,6885],
+  ['NA','NA','NA','NA','NA','NA',4548],
+  ['NA','NA','NA','NA',11109,7984,3649],
+  [1590,1538,1972,5246,3640,2563,1549],
+  ['NA','NA',9536,6823,2994,1723,1016],
+  ['NA','NA','NA','NA',441,981,2963],
+  ['NA','NA',18,168,5894,117,'NA'],
+  ['NA',6135,6503,'NA','NA','NA','NA']
+];
+
+var stranyPK = ["celkem", "SNK", "KDU-ČSL", "KSČM", "ČSSD", "ODS", "ANO 2011", "STAN", "SPD", "TOP 09", "SZ", "SNK ED", "Piráti", "VV", "US-DEU"];
+
+Highcharts.chart('pocetkandidatu', {
+    chart: {
+        type: 'line'
+    },
+    title: {
+        text: 'Kandidáti v obecních volbách podle strany'
+    },
+    subtitle: {
+        text: 'včetně koalic, za roky 1994 až 2018'
+    },
+    xAxis: {
+        categories: [1994, 1998, 2002, 2006, 2010, 2014, 2018]
+    },
+    yAxis: {
+        title: {
+            text: 'kandidáti, navržení stranou'
+        },
+        labels: {
+            format: '{value}'
+        }
+    },
+    tooltip: {
+        pointFormat: '{point.series.name}: <b>{point.y}</b> kandidátů<br/>',
+        shared: true
+    },
+    exporting: {
+        enabled: false
+    },
+    credits: {
+        href: 'https://volby.cz/',
+        text: 'Zdroj: ČSÚ'
+    },
+    series: [{
+        name: stranyPK[0],
+        data: dataPK[0],
+        color: colors[0],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        },
+        visible: false
+    }, {
+        name: stranyPK[1],
+        data: dataPK[1],
+        color: colors[1],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        },
+        visible: false
+    }, {
+        name: stranyPK[2],
+        data: dataPK[2],
+        color: colors[2],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        }
+    }, {
+        name: stranyPK[3],
+        data: dataPK[3],
+        color: colors[3],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        }
+    }, {
+        name: stranyPK[4],
+        data: dataPK[4],
+        color: colors[4],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        }
+    }, {
+        name: stranyPK[5],
+        data: dataPK[5],
+        color: colors[5],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        }
+    }, {
+        name: stranyPK[6],
+        data: dataPK[6],
+        color: colors[6],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        }
+    }, {
+        name: stranyPK[7],
+        data: dataPK[7],
+        color: colors[7],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        }
+    }, {
+        name: stranyPK[8],
+        data: dataPK[8],
+        color: colors[8],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        }
+    }, {
+        name: stranyPK[9],
+        data: dataPK[9],
+        color: colors[9],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        }
+    }, {
+        name: stranyPK[10],
+        data: dataPK[10],
+        color: colors[10],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        },
+        visible: false
+    }, {
+        name: stranyPK[11],
+        data: dataPK[11],
+        color: colors[11],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        },
+        visible: false
+    }, {
+        name: stranyPK[12],
+        data: dataPK[12],
+        color: colors[12],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        },
+        visible: false
+    }, {
+        name: stranyPK[13],
+        data: dataPK[13],
+        color: colors[13],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        },
+        visible: false
+    }, {
+        name: stranyPK[14],
+        data: dataPK[14],
+        color: colors[14],
+        marker: {
+            symbol: 'circle',
+            radius: 10,
+            lineWidth: 1
+        },
+        visible: false
+    }]
+});
+
+		</script>
+	</body>
+</html>
+

@@ -18,7 +18,7 @@ nacteniOpenData <- function(rok) {
   df <- merge(df, df_strany, by = c('KODZASTUP','COBVODU','OSTRANA'), all.x = T)
   
   # doplnění pohlaví, muž = T
-  df$POHLAVI <- !grepl('.*á$', df$PRIJMENI)
+  df$POHLAVI <- !grepl('.*(á|Á)$', df$PRIJMENI)
   
   # jméno, příjmení a název strany slouží k merge, takže raději všechno uppercase
   df$JMENO <- toupper(df$JMENO)
