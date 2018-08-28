@@ -1,6 +1,6 @@
 // JS soubory ve složce /styles/ se do výsledného článku zakompilují automaticky
 
-d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/obce/nazvyobci.csv").then(function(data){
+d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/obce/nazvyobci.csv", function(data) {
   var nazvyObci = data.sort(function(a, b) {
     if(a.NAZEVFULL < b.NAZEVFULL) return -1;
     if(a.NAZEVFULL > b.NAZEVFULL) return 1;
@@ -38,7 +38,7 @@ d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/obce/nazv
 });
 
 function ukazStrany(zvolenaObec, idObce) {
-	d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/strany/" + idObce + ".csv").then(function(data){
+	d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/strany/" + idObce + ".csv", function(data) {
 		var strany = data;
     var idStran = strany.map(function(d) {
       return d['StranaNr'];
@@ -74,7 +74,7 @@ function ukazStrany(zvolenaObec, idObce) {
 function ukazKandidaty(idObce, idStrany, nazevStrany) {
   document.getElementById("kandidati").innerHTML = 'Načítám data...'
 
-  d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/kandidati/" + idObce + ".csv").then(function(data){
+  d3.csv("https://data.irozhlas.cz/volby-obecni-2018/data/kandidatky/app/kandidati/" + idObce + ".csv", function(data){
   var kandidati = data;
 
   var kandidatiBezId = kandidati.map(function(d) {

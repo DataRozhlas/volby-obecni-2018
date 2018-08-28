@@ -5,7 +5,7 @@ coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/pub
 coverimg_note: ""
 styles: ["//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"]
 # snadné načítání csv: d3csv v libraries, d3.csv("soubor.csv").then(function(data){} ) v kódu
-libraries: [jquery, d3csv, datatables, "https://code.jquery.com/ui/1.12.1/jquery-ui.js"] #highcharts, d3, d3v5
+libraries: [jquery, "https://d3js.org/d3.v3.min.js", datatables, "https://code.jquery.com/ui/1.12.1/jquery-ui.js"] #highcharts, d3, d3v5
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 
@@ -30,6 +30,8 @@ _U Prahy 9 a obce Lišov, které mají volební obvody, je pořadí kandidáta v
 	<div id="kandidati"><table id="tabulkaKandidatu" class="display" style="width:100%"></table></div>
 </div>
 </wide>
+
+_Zdroj dat: [volby.cz](https://volby.cz/pls/kv2018/kv?xjazyk=CZ&xid=1)_
 
 V podzimních komunálních volbách kandiduje 216 520 kandidátů z 403 stran, hnutí a koalic. Je to nejméně od roku 2006, téměř o desetinu méně než před čtyřmi lety.
 
