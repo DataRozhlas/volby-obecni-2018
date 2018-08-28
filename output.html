@@ -94,4 +94,5 @@ function poskladejTabulkuKandidatu(seznamKandidatu,nazevStrany){var columns=posk
 for(var colIndex=0;colIndex<columns.length;colIndex++){var cellValue=seznamKandidatu[i][columns[colIndex]];if(cellValue==null)cellValue="";row$.append($('<td>').html(cellValue));}
 $('#tabulkaKandidatu').append(row$);}}
 function poskladejHlavickuKandidatu(seznamKandidatu){var columnSet=[];$('#tabulkaKandidatu').append('<thead id="seznamKandidatuHlavicka">');var headerTr$=$('<tr>');for(var i=0;i<seznamKandidatu.length;i++){var rowHash=seznamKandidatu[i];for(var key in rowHash){if($.inArray(key,columnSet)==-1){columnSet.push(key);headerTr$.append($('<th/>').html(key));}}}
-$('#seznamKandidatuHlavicka').append(headerTr$);return columnSet;}</script>
+$('#seznamKandidatuHlavicka').append(headerTr$);return columnSet;}
+var links=document.getElementsByTagName('a');for(var i=0,linksLength=links.length;i<linksLength;i++){if(links[i].hostname!=window.location.hostname){links[i].target='_blank';links[i].rel='noopener noreferrer';};};</script>
