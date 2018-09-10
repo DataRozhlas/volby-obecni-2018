@@ -87,8 +87,8 @@ x_strany$ZKRATKA <- as.character(x_strany$ZKRATKA)
 x_strany[5,]$ZKRATKA <- 'SNK'
 x_strany[10,]$ZKRATKA <- 'SPD'
 
-x_breaks <- seq(1, 105, by = 1) 
-x_cut <- cut(df_18[(df_18$NSTRANA == 1),]$VEK, x_breaks, right = F)
+x_breaks <- seq(1, 105, by = 5) 
+x_cut <- cut(df_18[(df_18$NSTRANA == 720),]$VEK, x_breaks, right = F)
 
 x_vek_kandidatu <- data.frame(table(x_cut))
 x_vek_kandidatu <- data.frame(x_vek_kandidatu[, -2])

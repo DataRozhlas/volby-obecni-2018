@@ -58,6 +58,9 @@ function ukazStrany(zvolenaObec, idObce) {
 
     $(function() {
       $('#tabulkaStran').DataTable({
+          columnDefs: [
+            { targets: 0, type: 'diacritics-neutralise' }
+          ],
           "order": [[ 0, "asc" ]],
           "responsive": true,
           "ordering": true,
@@ -99,6 +102,9 @@ function ukazKandidaty(idObce, idStrany, nazevStrany) {
 
     $(function() {
       $('#tabulkaKandidatu').DataTable({
+          columnDefs: [
+            { targets: 1, type: 'diacritics-neutralise' }
+          ],
           "order": [[ 0, "asc" ]],
           "responsive": true,
           "ordering": true,
@@ -197,3 +203,4 @@ function poskladejHlavickuKandidatu(seznamKandidatu) {
   $('#seznamKandidatuHlavicka').append(headerTr$);
   return columnSet;
 }
+
